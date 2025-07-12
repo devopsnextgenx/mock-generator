@@ -87,14 +87,14 @@ const schemaConfigs = [
     sql: { enabled: true, tableName: 'user_roles', batchSize: 500 }
   },
   {
-    file: 'user-grade.json',
+    file: 'user-grade-schema.json',
     name: 'User Grade',
     count: 15000,
     sql: { enabled: true, tableName: 'user_grades', batchSize: 1000 }
   },
   {
-    file: 'teams-user-schema.json',
-    name: 'Teams User',
+    file: 'team-users-schema.json',
+    name: 'Team Users',
     count: 15000,
     sql: { enabled: true, tableName: 'team_users', batchSize: 1000 }
   },
