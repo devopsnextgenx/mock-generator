@@ -1,0 +1,75 @@
+{
+  "type": "object",
+  "schemaName": "users",
+  "properties": {
+    "id": {
+      "type": "integer",
+      "sequential": {
+        "start": 1000,
+        "step": 1,
+        "counterName": "user_id"
+      }
+    },
+    "user_name": {
+      "type": "string",
+      "template": "{{first_name}}.{{last_name}}",
+      "transform": "lowercase"
+    },
+    "password": {
+      "type": "string",
+      "faker": "internet.password"
+    },
+    "first_name": {
+      "type": "string",
+      "faker": "person.firstName"
+    },
+    "last_name": {
+      "type": "string",
+      "faker": "person.lastName"
+    },
+    "birth_date": {
+      "type": "string",
+      "format": "date",
+      "faker": "date.birthdate"
+    },
+    "registration_date": {
+      "type": "string",
+      "format": "date-time",
+      "faker": "date.recent"
+    },
+    "active": {
+      "type": "integer",
+      "enum": [0, 1],
+      "default": 1,
+      "percentage": {
+        "1": 80,
+        "0": 20
+      }
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time",
+      "faker": "date.recent"
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time",
+      "faker": "date.recent"
+    },
+    "deleted_at": {
+      "type": "string",
+      "format": "date-time",
+      "faker": "date.recent"
+    },
+    "is_deleted": {
+      "type": "integer",
+      "enum": [0, 1],
+      "default": 0,
+      "percentage": {
+        "0": 90,
+        "1": 10
+      }
+    }
+  },
+  "required": ["id", "user_name", "password", "first_name", "last_name", "registration_date", "active", "created_at", "is_deleted"]
+}

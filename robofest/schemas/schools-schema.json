@@ -1,0 +1,32 @@
+{
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "integer",
+      "minimum": 1,
+      "faker": "number.int"
+    },
+    "school_name": {
+      "type": "string",
+      "faker": "company.companyName"
+    },
+    "school_district": {
+      "type": "string",
+      "faker": "address.city"
+    },
+    "school_type": {
+      "type": "string",
+      "enum": ["elementary", "middle", "high", "charter", "private", "public"]
+    },
+    "grade_level": {
+      "type": "string",
+      "enum": ["K-5", "6-8", "9-12", "K-12"]
+    },
+    "is_deleted": {
+      "type": "integer",
+      "enum": [0, 1],
+      "default": 0
+    }
+  },
+  "required": ["id", "school_name", "school_district", "school_type", "grade_level", "is_deleted"]
+}

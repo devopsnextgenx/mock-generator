@@ -1,0 +1,31 @@
+{
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "integer",
+      "minimum": 1,
+      "faker": "number.int"
+    },
+    "team_id": {
+      "type": "integer",
+      "minimum": 1,
+      "faker": "number.int"
+    },
+    "school_id": {
+      "type": "integer",
+      "minimum": 1,
+      "faker": "number.int"
+    },
+    "is_host": {
+      "type": "integer",
+      "enum": [0, 1],
+      "default": 0
+    },
+    "is_deleted": {
+      "type": "integer",
+      "enum": [0, 1],
+      "default": 0
+    }
+  },
+  "required": ["id", "team_id", "school_id", "is_host", "is_deleted"]
+}

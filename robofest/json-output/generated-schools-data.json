@@ -1,0 +1,1752 @@
+[
+  {
+    "id": 1714341694930944,
+    "school_district": "North Karl",
+    "school_type": "charter",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 389954521792512,
+    "school_district": "Orange",
+    "school_type": "middle",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 8833409860239360,
+    "school_district": "East Burdettechester",
+    "school_type": "high",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 5232616221442048,
+    "school_district": "Halvorsonbury",
+    "school_type": "charter",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 7029895576158208,
+    "school_district": "North Francesca",
+    "school_type": "charter",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 4152134851362816,
+    "school_district": "Elmirastead",
+    "school_type": "elementary",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 8390642730270720,
+    "school_district": "Vandervortberg",
+    "school_type": "high",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 5463329227145216,
+    "school_district": "Coltenview",
+    "school_type": "elementary",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 3063695745744896,
+    "school_district": "Crookston",
+    "school_type": "middle",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 1480835247112192,
+    "school_district": "South Kipberg",
+    "school_type": "high",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 3470958341914624,
+    "school_district": "Meganeland",
+    "school_type": "private",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 296150164832256,
+    "school_district": "South Bend",
+    "school_type": "charter",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 1031286703521792,
+    "school_district": "South Ilene",
+    "school_type": "private",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 1673726699503616,
+    "school_district": "Jessikaboro",
+    "school_type": "private",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 6260281791479808,
+    "school_district": "South Oswaldo",
+    "school_type": "high",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 8635239991607296,
+    "school_district": "Zulaton",
+    "school_type": "charter",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 8503303275020288,
+    "school_district": "Lake Josephland",
+    "school_type": "elementary",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 1367234840625152,
+    "school_district": "Jonesboro",
+    "school_type": "middle",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 6497401959350272,
+    "school_district": "Seanstead",
+    "school_type": "public",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 8801428065746944,
+    "school_district": "Armandstad",
+    "school_type": "public",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 7762580330250240,
+    "school_district": "Starkhaven",
+    "school_type": "high",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 7839975735296000,
+    "school_district": "Pine Hills",
+    "school_type": "private",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 5471053828587520,
+    "school_district": "Aspen Hill",
+    "school_type": "high",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 8585655137337344,
+    "school_district": "West Kaileetown",
+    "school_type": "private",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 8192987043463168,
+    "school_district": "Schoenville",
+    "school_type": "private",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 5545774236565504,
+    "school_district": "Kuhicburgh",
+    "school_type": "public",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 4739732158283776,
+    "school_district": "Lake Dorothyhaven",
+    "school_type": "high",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 782013776789504,
+    "school_district": "Terryfort",
+    "school_type": "private",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 6228874599858176,
+    "school_district": "Hesselton",
+    "school_type": "public",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 6034751601246208,
+    "school_district": "Goodwinmouth",
+    "school_type": "charter",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 7043292051013632,
+    "school_district": "East Marquisville",
+    "school_type": "charter",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 2954291713146880,
+    "school_district": "Heberland",
+    "school_type": "middle",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 5354689163952128,
+    "school_district": "West Hattie",
+    "school_type": "high",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 602750412914688,
+    "school_district": "Delmercester",
+    "school_type": "middle",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 8358542685765632,
+    "school_district": "Marianachester",
+    "school_type": "charter",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 6568793167888384,
+    "school_district": "Fort Graham",
+    "school_type": "charter",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 3049076637564928,
+    "school_district": "Leoneview",
+    "school_type": "middle",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 8777161110454272,
+    "school_district": "Coleview",
+    "school_type": "public",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 4338029349044224,
+    "school_district": "Alexanehaven",
+    "school_type": "middle",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 1685583487303680,
+    "school_district": "Littlestead",
+    "school_type": "private",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 894289619976192,
+    "school_district": "Daxfort",
+    "school_type": "high",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 7479180872646656,
+    "school_district": "Oakland Park",
+    "school_type": "charter",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 6222524039823360,
+    "school_district": "Port Prestoncester",
+    "school_type": "charter",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 4838656785252352,
+    "school_district": "Conroyville",
+    "school_type": "elementary",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 1683355053588480,
+    "school_district": "Fort Jalyn",
+    "school_type": "public",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 5141414625148928,
+    "school_district": "Spokane Valley",
+    "school_type": "public",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 5105791350603776,
+    "school_district": "Tinley Park",
+    "school_type": "high",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 3574380439273472,
+    "school_district": "North Concepcion",
+    "school_type": "elementary",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 3777071159443456,
+    "school_district": "New Deshaun",
+    "school_type": "elementary",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 5203788883296256,
+    "school_district": "Lubowitzhaven",
+    "school_type": "charter",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 4111216291086336,
+    "school_district": "Bridgeport",
+    "school_type": "elementary",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 4798162315247616,
+    "school_district": "Port Therese",
+    "school_type": "charter",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 550603851825152,
+    "school_district": "Fort Gordonview",
+    "school_type": "middle",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 2677727335284736,
+    "school_district": "Fort Juliusberg",
+    "school_type": "high",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 5813207503470592,
+    "school_district": "Tiatown",
+    "school_type": "public",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 6007064170070016,
+    "school_district": "Giaboro",
+    "school_type": "middle",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 1008899605921792,
+    "school_district": "Mireyatown",
+    "school_type": "private",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 6171897318342656,
+    "school_district": "South Mathias",
+    "school_type": "middle",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 7561882808352768,
+    "school_district": "East Alec",
+    "school_type": "private",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 5893330546196480,
+    "school_district": "West New York",
+    "school_type": "private",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 6362142810832896,
+    "school_district": "Homestead",
+    "school_type": "middle",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 1420932797169664,
+    "school_district": "Horacioworth",
+    "school_type": "charter",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 7851865584697344,
+    "school_district": "Lake Lorainehaven",
+    "school_type": "elementary",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 53647610216448,
+    "school_district": "Lake Alexa",
+    "school_type": "charter",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 3284942725316608,
+    "school_district": "Fort Zelda",
+    "school_type": "high",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 5116600598396928,
+    "school_district": "Devanville",
+    "school_type": "high",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 7964312192679936,
+    "school_district": "North Raquelland",
+    "school_type": "high",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 4463759277948928,
+    "school_district": "Nolanland",
+    "school_type": "public",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 3298356417789952,
+    "school_district": "Port Osborne",
+    "school_type": "middle",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 7992794282983424,
+    "school_district": "Port Anibalcester",
+    "school_type": "middle",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 3845920431013888,
+    "school_district": "Ziemannfurt",
+    "school_type": "charter",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 6917957691113472,
+    "school_district": "Elissafurt",
+    "school_type": "charter",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 4658813898588160,
+    "school_district": "Gresham",
+    "school_type": "elementary",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 2263332102864896,
+    "school_district": "Goodyear",
+    "school_type": "public",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 3312945511530496,
+    "school_district": "West Taloncester",
+    "school_type": "charter",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 8929419003428864,
+    "school_district": "Weberton",
+    "school_type": "elementary",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 8962516266778624,
+    "school_district": "Fort Elliottburgh",
+    "school_type": "public",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 419347166134272,
+    "school_district": "Mrazchester",
+    "school_type": "high",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 587287272357888,
+    "school_district": "East Walton",
+    "school_type": "public",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 8812664952193024,
+    "school_district": "Lake Linneabury",
+    "school_type": "public",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 6662502616137728,
+    "school_district": "New Sydnie",
+    "school_type": "private",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 8082568727494656,
+    "school_district": "South Rodrigomouth",
+    "school_type": "public",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 1737163844616192,
+    "school_district": "Macon-Bibb County",
+    "school_type": "public",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 1564880666624000,
+    "school_district": "Cupertino",
+    "school_type": "charter",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 5054966175629312,
+    "school_district": "Federal Way",
+    "school_type": "elementary",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 3341320154251264,
+    "school_district": "Fort Ninashire",
+    "school_type": "middle",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 6670175732498432,
+    "school_district": "Lionelcester",
+    "school_type": "elementary",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 6032205444808704,
+    "school_district": "Reaganborough",
+    "school_type": "charter",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 2899842001010688,
+    "school_district": "Davidstead",
+    "school_type": "middle",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 4516719542403072,
+    "school_district": "Fort Meggie",
+    "school_type": "high",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 7184510147887104,
+    "school_district": "New Maxime",
+    "school_type": "private",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 8366122919264256,
+    "school_district": "Chelseafort",
+    "school_type": "private",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 4618161278156800,
+    "school_district": "East Mazie",
+    "school_type": "high",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 6683538355126272,
+    "school_district": "Herzogtown",
+    "school_type": "elementary",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 7180388933828608,
+    "school_district": "Sparks",
+    "school_type": "elementary",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 4414660759519232,
+    "school_district": "Fort Lawsonview",
+    "school_type": "middle",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 3810950970867712,
+    "school_district": "Edmond",
+    "school_type": "elementary",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 3331894322135040,
+    "school_district": "North Leonorfort",
+    "school_type": "middle",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 7540066452766720,
+    "school_district": "Bonitashire",
+    "school_type": "private",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 8862750272913408,
+    "school_district": "North Libby",
+    "school_type": "elementary",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 1529977243697152,
+    "school_district": "West Chandler",
+    "school_type": "elementary",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 5458001345380352,
+    "school_district": "East Edythe",
+    "school_type": "charter",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 4741737987702784,
+    "school_district": "East Augustus",
+    "school_type": "elementary",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 5516845316571136,
+    "school_district": "Merlinside",
+    "school_type": "charter",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 3316258187509760,
+    "school_district": "Fort Vallie",
+    "school_type": "private",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 2121463616241664,
+    "school_district": "Maximusbury",
+    "school_type": "middle",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 3945822209179648,
+    "school_district": "Woodland",
+    "school_type": "public",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 4847603000803328,
+    "school_district": "Fort Katlyn",
+    "school_type": "public",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 4902610821709824,
+    "school_district": "Marielachester",
+    "school_type": "middle",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 584448489816064,
+    "school_district": "Millerville",
+    "school_type": "high",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 1908940348588032,
+    "school_district": "East Ofelia",
+    "school_type": "elementary",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 1442095355133952,
+    "school_district": "Gastonberg",
+    "school_type": "high",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 1218346404020224,
+    "school_district": "Homenickchester",
+    "school_type": "private",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 1201558112960512,
+    "school_district": "Lake Lavinialand",
+    "school_type": "private",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 5456826581647360,
+    "school_district": "Marleneland",
+    "school_type": "middle",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 804696929337344,
+    "school_district": "North Deanborough",
+    "school_type": "elementary",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 2289628946104320,
+    "school_district": "Schuppefurt",
+    "school_type": "high",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 1914841392480256,
+    "school_district": "Deshawnbury",
+    "school_type": "high",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 8297293268647936,
+    "school_district": "Beckerport",
+    "school_type": "high",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 6664330797907968,
+    "school_district": "Wittingland",
+    "school_type": "elementary",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 6974784124485632,
+    "school_district": "Allentown",
+    "school_type": "public",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 6659464205697024,
+    "school_district": "Yundtland",
+    "school_type": "middle",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 2131600051535872,
+    "school_district": "Sylvesterport",
+    "school_type": "private",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 1941929486974976,
+    "school_district": "North Dale",
+    "school_type": "private",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 6155720313536512,
+    "school_district": "Port Claireborough",
+    "school_type": "private",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 2691662962753536,
+    "school_district": "East Nicolette",
+    "school_type": "middle",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 4398154080321536,
+    "school_district": "Hoppefort",
+    "school_type": "elementary",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 3825694867980288,
+    "school_district": "East Marty",
+    "school_type": "elementary",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 3825579094704128,
+    "school_district": "South Flavieview",
+    "school_type": "public",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 555503293825024,
+    "school_district": "Moenville",
+    "school_type": "public",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 2638778879442944,
+    "school_district": "Zemlakview",
+    "school_type": "charter",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 3346952873836544,
+    "school_district": "Port Merrittborough",
+    "school_type": "charter",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 2777639154614272,
+    "school_district": "Nicolasport",
+    "school_type": "middle",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 4741026675687424,
+    "school_district": "South Devan",
+    "school_type": "high",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 1998354116509696,
+    "school_district": "Greenfelderborough",
+    "school_type": "middle",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 6676217564495872,
+    "school_district": "Fort Danykaworth",
+    "school_type": "middle",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 4518759142260736,
+    "school_district": "Okunevafield",
+    "school_type": "middle",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 3735061901869056,
+    "school_district": "West Arnoldoview",
+    "school_type": "middle",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 7800784727048192,
+    "school_district": "Bossier City",
+    "school_type": "private",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 3059060809138176,
+    "school_district": "Haskellstad",
+    "school_type": "middle",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 3726490743078912,
+    "school_district": "Runolfssontown",
+    "school_type": "high",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 1563862484647936,
+    "school_district": "Lombard",
+    "school_type": "high",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 2325299601604608,
+    "school_district": "Eleanoraburgh",
+    "school_type": "charter",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 8122976557858816,
+    "school_district": "Cliftonview",
+    "school_type": "private",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 3124677618696192,
+    "school_district": "Shawnee",
+    "school_type": "charter",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 7897175698702336,
+    "school_district": "North Imelda",
+    "school_type": "private",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 2058065861935104,
+    "school_district": "Lake Kirstenland",
+    "school_type": "public",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 4426975139594240,
+    "school_district": "East Delilah",
+    "school_type": "charter",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 4628546997714944,
+    "school_district": "Miramar",
+    "school_type": "public",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 4811676637462528,
+    "school_district": "Wilfordburgh",
+    "school_type": "middle",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 7434294385442816,
+    "school_district": "Port Alan",
+    "school_type": "charter",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 7267852365070336,
+    "school_district": "Leannonberg",
+    "school_type": "high",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 4692557799882752,
+    "school_district": "Constantinside",
+    "school_type": "charter",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 6451152895868928,
+    "school_district": "Kenner",
+    "school_type": "charter",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 8349199982657536,
+    "school_district": "West Graycehaven",
+    "school_type": "charter",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 2341515422597120,
+    "school_district": "Fort Itzel",
+    "school_type": "public",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 8791405331742720,
+    "school_district": "East Joany",
+    "school_type": "charter",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 3395983404695552,
+    "school_district": "Demondville",
+    "school_type": "elementary",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 464490567041024,
+    "school_district": "West Wendy",
+    "school_type": "elementary",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 488102925697024,
+    "school_district": "South Dorachester",
+    "school_type": "charter",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 7985246473551872,
+    "school_district": "Jordonchester",
+    "school_type": "elementary",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 5433565821009920,
+    "school_district": "Rhettfield",
+    "school_type": "charter",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 2694122295001088,
+    "school_district": "Port Antone",
+    "school_type": "charter",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 3146498759983104,
+    "school_district": "Lake Gracefurt",
+    "school_type": "public",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 7820017825480704,
+    "school_district": "Morartown",
+    "school_type": "elementary",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 3127728578494464,
+    "school_district": "Fort Carolannefield",
+    "school_type": "high",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 732226044035072,
+    "school_district": "Robyntown",
+    "school_type": "charter",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 6575473765122048,
+    "school_district": "Guaynabo",
+    "school_type": "high",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 5707706249773056,
+    "school_district": "Mesa",
+    "school_type": "charter",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 1547669208039424,
+    "school_district": "O'Keefetown",
+    "school_type": "private",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 6460055167696896,
+    "school_district": "Monroe",
+    "school_type": "private",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 1592253113958400,
+    "school_district": "Vincenzoshire",
+    "school_type": "private",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 7752912591650816,
+    "school_district": "Elyseboro",
+    "school_type": "middle",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 4450844367912960,
+    "school_district": "Cyrusfort",
+    "school_type": "high",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 923650404384768,
+    "school_district": "Erie",
+    "school_type": "elementary",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 3356731323187200,
+    "school_district": "West Coltfurt",
+    "school_type": "public",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 462128907550720,
+    "school_district": "North Emelietown",
+    "school_type": "middle",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 1329289957998592,
+    "school_district": "Rodcester",
+    "school_type": "public",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 981504874250240,
+    "school_district": "Langworthview",
+    "school_type": "private",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 1961198476066816,
+    "school_district": "Lake Pablo",
+    "school_type": "charter",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 9001618613731328,
+    "school_district": "Blakeport",
+    "school_type": "elementary",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 973864926445568,
+    "school_district": "Fort Cameronville",
+    "school_type": "private",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 3197521813831680,
+    "school_district": "Fort Linnie",
+    "school_type": "public",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 3908232592490496,
+    "school_district": "South Mikelfort",
+    "school_type": "middle",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 8506686083956736,
+    "school_district": "Robertshaven",
+    "school_type": "elementary",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 6448143619063808,
+    "school_district": "Fort Siennafurt",
+    "school_type": "public",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 6469607344832512,
+    "school_district": "Sonyafurt",
+    "school_type": "middle",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 2011186602180608,
+    "school_district": "Millsshire",
+    "school_type": "elementary",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 7941455597273088,
+    "school_district": "Charlesport",
+    "school_type": "public",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 2186991447834624,
+    "school_district": "Racine",
+    "school_type": "public",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 527812205215744,
+    "school_district": "Fort Jaquan",
+    "school_type": "public",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 2526543072985088,
+    "school_district": "North Lilliancester",
+    "school_type": "charter",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 3439985382391808,
+    "school_district": "Roswell",
+    "school_type": "charter",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 1973692017934336,
+    "school_district": "Pine Hills",
+    "school_type": "elementary",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 6964030996480000,
+    "school_district": "Lake Jaylen",
+    "school_type": "public",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 4031284288421888,
+    "school_district": "South Antoinette",
+    "school_type": "high",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 4252429008764928,
+    "school_district": "Murrieta",
+    "school_type": "public",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 8765769372401664,
+    "school_district": "Jarvisview",
+    "school_type": "high",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 1285975741300736,
+    "school_district": "Port Kathleenburgh",
+    "school_type": "charter",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 6648774390710272,
+    "school_district": "Lake D'angeloberg",
+    "school_type": "middle",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 7073167310848,
+    "school_district": "East Anderson",
+    "school_type": "elementary",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 7378178408448000,
+    "school_district": "East Andreaneburgh",
+    "school_type": "public",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 6935848660500480,
+    "school_district": "Celestinefield",
+    "school_type": "high",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 8720810879483904,
+    "school_district": "Thoraborough",
+    "school_type": "high",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 2943847604682752,
+    "school_district": "Lilliemouth",
+    "school_type": "high",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 5971334930628608,
+    "school_district": "Port Antonio",
+    "school_type": "public",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 7971174193561600,
+    "school_district": "North Katlynnton",
+    "school_type": "charter",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 5824562115641344,
+    "school_district": "New Enricoville",
+    "school_type": "high",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 1892748309299200,
+    "school_district": "West Brianne",
+    "school_type": "private",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 6095830652026880,
+    "school_district": "Janashire",
+    "school_type": "private",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 6035309636616192,
+    "school_district": "Delano",
+    "school_type": "middle",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 767646339432448,
+    "school_district": "Remingtonchester",
+    "school_type": "charter",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 6575011412312064,
+    "school_district": "Candacecester",
+    "school_type": "public",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 6429232754327552,
+    "school_district": "Ondrickaview",
+    "school_type": "charter",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 8231037635133440,
+    "school_district": "Fort Alexandratown",
+    "school_type": "middle",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 7508867520921600,
+    "school_district": "McKenzieberg",
+    "school_type": "private",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 95504625041408,
+    "school_district": "South Esther",
+    "school_type": "charter",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 8725386493952000,
+    "school_district": "New Guiseppeport",
+    "school_type": "private",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 6407739655847936,
+    "school_district": "Winnifredberg",
+    "school_type": "private",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 3770670135640064,
+    "school_district": "Dachfield",
+    "school_type": "private",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 8519763326140416,
+    "school_district": "Port Medahaven",
+    "school_type": "charter",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 4276690628902912,
+    "school_district": "North Aida",
+    "school_type": "public",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 1799339563286528,
+    "school_district": "East Sabina",
+    "school_type": "elementary",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 1781032764309504,
+    "school_district": "East Bryon",
+    "school_type": "public",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 1037196888899584,
+    "school_district": "West Aishatown",
+    "school_type": "private",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 2882084792172544,
+    "school_district": "Lindaside",
+    "school_type": "charter",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 4587217550835712,
+    "school_district": "Lake Dorian",
+    "school_type": "charter",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 3649988166942720,
+    "school_district": "Fadelworth",
+    "school_type": "elementary",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 1370755262578688,
+    "school_district": "Potomac",
+    "school_type": "high",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 3285368730288128,
+    "school_district": "North Julientown",
+    "school_type": "charter",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 7017244183756800,
+    "school_district": "New Kirsten",
+    "school_type": "middle",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 6284397852491776,
+    "school_district": "Francescacester",
+    "school_type": "elementary",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 3009662456692736,
+    "school_district": "Rochester",
+    "school_type": "charter",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 8451750883229696,
+    "school_district": "Lake Hilda",
+    "school_type": "private",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 41993849798656,
+    "school_district": "Lake Guycester",
+    "school_type": "elementary",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 1973714916737024,
+    "school_district": "Port Bradenshire",
+    "school_type": "high",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 4660918600335360,
+    "school_district": "New Mathilde",
+    "school_type": "elementary",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 5972926247469056,
+    "school_district": "Abbottberg",
+    "school_type": "public",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 1540127463571456,
+    "school_district": "Verdaton",
+    "school_type": "public",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 138434274394112,
+    "school_district": "New Ludie",
+    "school_type": "charter",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 812277173321728,
+    "school_district": "Joliet",
+    "school_type": "charter",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 2422236403204096,
+    "school_district": "Lake Audrey",
+    "school_type": "public",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 1771707337539584,
+    "school_district": "Willowstad",
+    "school_type": "public",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 2998542486470656,
+    "school_district": "Lake Kristin",
+    "school_type": "high",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 7859500721635328,
+    "school_district": "Port Fiona",
+    "school_type": "private",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 726529753481216,
+    "school_district": "Port Diannaland",
+    "school_type": "public",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 6261593245483008,
+    "school_district": "Kaseycester",
+    "school_type": "public",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 1978967689003008,
+    "school_district": "North Zulacester",
+    "school_type": "private",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 6957069726908416,
+    "school_district": "East Albina",
+    "school_type": "elementary",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 2484534532636672,
+    "school_district": "Terrystead",
+    "school_type": "elementary",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  }
+]

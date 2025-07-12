@@ -1,0 +1,41 @@
+{
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "integer",
+      "minimum": 1,
+      "faker": "number.int"
+    },
+    "team_id": {
+      "type": "integer",
+      "minimum": 1,
+      "faker": "number.int"
+    },
+    "sponser_id": {
+      "type": "integer",
+      "minimum": 1,
+      "faker": "number.int"
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time",
+      "faker": "date.recent"
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time",
+      "faker": "date.recent"
+    },
+    "deleted_at": {
+      "type": "string",
+      "format": "date-time",
+      "faker": "date.recent"
+    },
+    "is_deleted": {
+      "type": "integer",
+      "enum": [0, 1],
+      "default": 0
+    }
+  },
+  "required": ["id", "team_id", "sponser_id", "created_at", "is_deleted"]
+}

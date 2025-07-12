@@ -1,0 +1,29 @@
+{
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "integer",
+      "minimum": 1,
+      "faker": "number.int"
+    },
+    "user_id": {
+      "type": "integer",
+      "minimum": 1,
+      "foreignKey": {
+        "schema": "users",
+        "field": "id"
+      }
+    },
+    "role": {
+      "type": "integer",
+      "enum": [1, 2, 3, 4, 5],
+      "description": "Role levels: 1=Student, 2=Mentor, 3=Coach, 4=Admin, 5=SuperAdmin"
+    },
+    "is_deleted": {
+      "type": "integer",
+      "enum": [0, 1],
+      "default": 0
+    }
+  },
+  "required": ["id", "user_id", "role", "is_deleted"]
+}

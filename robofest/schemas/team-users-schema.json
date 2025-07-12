@@ -1,0 +1,66 @@
+{
+  "type": "object",
+  "dependentRecords": {
+    "parentSchemas": [
+      {
+        "schema": "teams",
+        "minPerParent": 3,
+        "maxPerParent": 8
+      },
+      {
+        "schema": "users",
+        "oneToOne": true
+      }
+    ]
+  },
+  "uniqueConstraints": [
+    {
+      "columns": ["team_id", "user_id"],
+      "name": "unique_team_user"
+    }
+  ],
+  "properties": {
+    "id": {
+      "type": "integer",
+      "minimum": 1,
+      "faker": "number.int"
+    },
+    "user_id": {
+      "type": "integer",
+      "minimum": 1,
+      "foreignKey": {
+        "schema": "users",
+        "field": "id"
+      }
+    },
+    "team_id": {
+      "type": "integer",
+      "minimum": 1,
+      "foreignKey": {
+        "schema": "teams",
+        "field": "id"
+      }
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time",
+      "faker": "date.recent"
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time",
+      "faker": "date.recent"
+    },
+    "deleted_at": {
+      "type": "string",
+      "format": "date-time",
+      "faker": "date.recent"
+    },
+    "is_deleted": {
+      "type": "integer",
+      "enum": [0, 1],
+      "default": 0
+    }
+  },
+  "required": ["id", "user_id", "team_id", "created_at", "is_deleted"]
+}

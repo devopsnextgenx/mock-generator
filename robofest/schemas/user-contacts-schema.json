@@ -1,0 +1,50 @@
+{
+  "type": "object",
+  "schemaName": "user_contacts",
+  "dependentRecords": {
+    "parentSchema": "users",
+    "minPerParent": 2,
+    "maxPerParent": 5
+  },
+  "properties": {
+    "id": {
+      "type": "integer",
+      "sequential": {
+        "start": 1,
+        "step": 1,
+        "counterName": "user_contact_id"
+      }
+    },
+    "user_id": {
+      "type": "integer",
+      "minimum": 1,
+      "foreignKey": {
+        "schema": "users",
+        "field": "id"
+      }
+    },
+    "contact_type": {
+      "type": "string",
+      "enum": ["email", "phone"],
+      "default": "email",
+      "percentage": {
+        "email": 40,
+        "phone": 60
+      }
+    },
+    "contact_value": {
+      "type": "string",
+      "template": "{{contact_type_value}}"
+    },
+    "is_deleted": {
+      "type": "integer",
+      "enum": [0, 1],
+      "default": 0,
+      "percentage": {
+        "1": 95,
+        "0": 5
+      }
+    }
+  },
+  "required": ["id", "user_id", "contact_type", "contact_value", "is_deleted"]
+}

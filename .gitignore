@@ -1,0 +1,14 @@
+node_modules/
+dist/
+coverage/
+*.log
+.env
+.DS_Store
+Thumbs.db
+
+# Test output directories
+tests/*/generated-*
+tests/complex-relationships-demo/
+tests/multi-schema-sql-demo/
+tests/related-schemas-demo/
+tests/sql-demo/
