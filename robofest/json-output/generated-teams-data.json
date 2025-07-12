@@ -1,0 +1,802 @@
+[
+  {
+    "id": 10000,
+    "team_number": 973,
+    "created_at": "2025-07-12T13:33:31.367Z",
+    "updated_at": "2025-07-12T06:21:37.804Z",
+    "deleted_at": "2025-07-12T17:23:41.106Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10001,
+    "team_number": 557,
+    "created_at": "2025-07-11T21:03:26.862Z",
+    "updated_at": "2025-07-12T12:00:12.807Z",
+    "deleted_at": "2025-07-12T11:24:58.979Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10002,
+    "team_number": 640,
+    "created_at": "2025-07-12T01:19:59.982Z",
+    "updated_at": "2025-07-12T01:24:24.948Z",
+    "deleted_at": "2025-07-12T12:28:43.709Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10003,
+    "team_number": 142,
+    "created_at": "2025-07-12T02:08:48.530Z",
+    "updated_at": "2025-07-11T20:04:08.450Z",
+    "deleted_at": "2025-07-12T02:01:37.558Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10004,
+    "team_number": 192,
+    "created_at": "2025-07-12T15:25:18.683Z",
+    "updated_at": "2025-07-12T02:45:02.408Z",
+    "deleted_at": "2025-07-12T05:22:12.394Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10005,
+    "team_number": 810,
+    "created_at": "2025-07-12T15:59:26.268Z",
+    "updated_at": "2025-07-12T15:04:49.539Z",
+    "deleted_at": "2025-07-12T01:55:35.287Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10006,
+    "team_number": 218,
+    "created_at": "2025-07-12T12:24:29.684Z",
+    "updated_at": "2025-07-12T10:37:02.731Z",
+    "deleted_at": "2025-07-11T23:52:54.703Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10007,
+    "team_number": 962,
+    "created_at": "2025-07-11T20:02:14.369Z",
+    "updated_at": "2025-07-12T07:29:39.658Z",
+    "deleted_at": "2025-07-12T10:33:04.798Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10008,
+    "team_number": 81,
+    "created_at": "2025-07-12T13:20:14.548Z",
+    "updated_at": "2025-07-12T16:32:46.543Z",
+    "deleted_at": "2025-07-12T13:38:31.581Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10009,
+    "team_number": 792,
+    "created_at": "2025-07-12T09:59:36.862Z",
+    "updated_at": "2025-07-11T21:19:43.063Z",
+    "deleted_at": "2025-07-12T17:45:20.281Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10010,
+    "team_number": 473,
+    "created_at": "2025-07-12T18:57:28.101Z",
+    "updated_at": "2025-07-12T15:48:15.595Z",
+    "deleted_at": "2025-07-12T05:51:48.064Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10011,
+    "team_number": 288,
+    "created_at": "2025-07-12T14:04:27.340Z",
+    "updated_at": "2025-07-12T08:43:59.231Z",
+    "deleted_at": "2025-07-12T07:26:51.545Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10012,
+    "team_number": 743,
+    "created_at": "2025-07-12T01:34:47.198Z",
+    "updated_at": "2025-07-11T21:38:39.245Z",
+    "deleted_at": "2025-07-12T13:48:11.901Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10013,
+    "team_number": 182,
+    "created_at": "2025-07-12T09:38:01.877Z",
+    "updated_at": "2025-07-12T12:46:10.664Z",
+    "deleted_at": "2025-07-12T09:37:57.813Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10014,
+    "team_number": 179,
+    "created_at": "2025-07-12T19:18:06.374Z",
+    "updated_at": "2025-07-12T00:48:10.585Z",
+    "deleted_at": "2025-07-12T06:29:21.482Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10015,
+    "team_number": 83,
+    "created_at": "2025-07-12T04:17:05.110Z",
+    "updated_at": "2025-07-12T11:06:43.505Z",
+    "deleted_at": "2025-07-11T23:12:27.768Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10016,
+    "team_number": 490,
+    "created_at": "2025-07-12T13:11:53.708Z",
+    "updated_at": "2025-07-12T00:00:18.975Z",
+    "deleted_at": "2025-07-11T21:12:12.804Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10017,
+    "team_number": 329,
+    "created_at": "2025-07-12T13:56:03.212Z",
+    "updated_at": "2025-07-11T21:34:30.093Z",
+    "deleted_at": "2025-07-12T05:53:25.463Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10018,
+    "team_number": 754,
+    "created_at": "2025-07-12T01:24:32.316Z",
+    "updated_at": "2025-07-12T09:19:31.998Z",
+    "deleted_at": "2025-07-12T11:18:48.276Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10019,
+    "team_number": 537,
+    "created_at": "2025-07-12T12:17:54.392Z",
+    "updated_at": "2025-07-12T01:12:04.369Z",
+    "deleted_at": "2025-07-12T10:51:53.231Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10020,
+    "team_number": 55,
+    "created_at": "2025-07-12T11:20:35.811Z",
+    "updated_at": "2025-07-11T23:14:12.328Z",
+    "deleted_at": "2025-07-12T01:50:41.276Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10021,
+    "team_number": 683,
+    "created_at": "2025-07-12T02:12:27.980Z",
+    "updated_at": "2025-07-12T13:29:04.968Z",
+    "deleted_at": "2025-07-12T18:27:42.009Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10022,
+    "team_number": 412,
+    "created_at": "2025-07-12T11:37:35.127Z",
+    "updated_at": "2025-07-12T08:36:23.859Z",
+    "deleted_at": "2025-07-12T16:04:04.515Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10023,
+    "team_number": 726,
+    "created_at": "2025-07-12T06:39:43.532Z",
+    "updated_at": "2025-07-12T07:03:06.621Z",
+    "deleted_at": "2025-07-12T10:30:10.465Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10024,
+    "team_number": 478,
+    "created_at": "2025-07-12T13:13:57.913Z",
+    "updated_at": "2025-07-12T10:00:20.021Z",
+    "deleted_at": "2025-07-12T02:09:47.898Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10025,
+    "team_number": 39,
+    "created_at": "2025-07-12T17:17:53.388Z",
+    "updated_at": "2025-07-12T14:54:18.294Z",
+    "deleted_at": "2025-07-12T10:00:38.856Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10026,
+    "team_number": 386,
+    "created_at": "2025-07-12T08:08:43.616Z",
+    "updated_at": "2025-07-12T12:59:15.354Z",
+    "deleted_at": "2025-07-12T03:42:13.809Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10027,
+    "team_number": 476,
+    "created_at": "2025-07-12T19:15:21.203Z",
+    "updated_at": "2025-07-12T07:48:34.782Z",
+    "deleted_at": "2025-07-12T08:24:45.882Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10028,
+    "team_number": 778,
+    "created_at": "2025-07-12T04:37:09.632Z",
+    "updated_at": "2025-07-12T16:14:18.468Z",
+    "deleted_at": "2025-07-11T20:01:41.092Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10029,
+    "team_number": 160,
+    "created_at": "2025-07-12T09:09:55.371Z",
+    "updated_at": "2025-07-11T20:20:09.027Z",
+    "deleted_at": "2025-07-12T15:52:18.546Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10030,
+    "team_number": 891,
+    "created_at": "2025-07-11T22:34:54.361Z",
+    "updated_at": "2025-07-12T10:34:32.060Z",
+    "deleted_at": "2025-07-12T18:45:14.116Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10031,
+    "team_number": 231,
+    "created_at": "2025-07-12T08:38:04.362Z",
+    "updated_at": "2025-07-12T11:16:17.219Z",
+    "deleted_at": "2025-07-12T18:01:01.800Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10032,
+    "team_number": 333,
+    "created_at": "2025-07-12T19:16:40.787Z",
+    "updated_at": "2025-07-11T22:08:01.510Z",
+    "deleted_at": "2025-07-12T15:42:30.109Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10033,
+    "team_number": 746,
+    "created_at": "2025-07-12T08:59:39.861Z",
+    "updated_at": "2025-07-11T21:11:20.925Z",
+    "deleted_at": "2025-07-12T02:30:43.851Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10034,
+    "team_number": 429,
+    "created_at": "2025-07-12T05:24:54.519Z",
+    "updated_at": "2025-07-11T23:20:28.633Z",
+    "deleted_at": "2025-07-12T18:19:39.129Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10035,
+    "team_number": 617,
+    "created_at": "2025-07-12T11:08:59.056Z",
+    "updated_at": "2025-07-12T19:20:48.827Z",
+    "deleted_at": "2025-07-12T02:38:17.918Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10036,
+    "team_number": 531,
+    "created_at": "2025-07-12T01:01:01.223Z",
+    "updated_at": "2025-07-11T22:12:45.156Z",
+    "deleted_at": "2025-07-12T04:29:56.553Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10037,
+    "team_number": 297,
+    "created_at": "2025-07-11T20:14:53.041Z",
+    "updated_at": "2025-07-12T15:51:01.506Z",
+    "deleted_at": "2025-07-12T11:31:49.571Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10038,
+    "team_number": 796,
+    "created_at": "2025-07-12T17:17:53.642Z",
+    "updated_at": "2025-07-12T19:32:34.467Z",
+    "deleted_at": "2025-07-12T17:40:22.463Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10039,
+    "team_number": 936,
+    "created_at": "2025-07-12T16:16:46.495Z",
+    "updated_at": "2025-07-12T05:51:08.603Z",
+    "deleted_at": "2025-07-12T07:18:39.583Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10040,
+    "team_number": 306,
+    "created_at": "2025-07-12T17:59:50.665Z",
+    "updated_at": "2025-07-12T05:56:40.651Z",
+    "deleted_at": "2025-07-12T15:15:46.775Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10041,
+    "team_number": 380,
+    "created_at": "2025-07-12T01:09:59.239Z",
+    "updated_at": "2025-07-11T23:20:43.465Z",
+    "deleted_at": "2025-07-12T17:59:46.903Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10042,
+    "team_number": 732,
+    "created_at": "2025-07-12T13:28:39.969Z",
+    "updated_at": "2025-07-12T14:47:16.091Z",
+    "deleted_at": "2025-07-12T16:50:02.923Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10043,
+    "team_number": 778,
+    "created_at": "2025-07-12T10:09:01.523Z",
+    "updated_at": "2025-07-12T18:04:11.213Z",
+    "deleted_at": "2025-07-11T23:18:42.221Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10044,
+    "team_number": 108,
+    "created_at": "2025-07-12T07:07:09.006Z",
+    "updated_at": "2025-07-12T15:25:11.866Z",
+    "deleted_at": "2025-07-12T08:46:35.333Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10045,
+    "team_number": 875,
+    "created_at": "2025-07-12T05:05:38.996Z",
+    "updated_at": "2025-07-11T20:39:42.307Z",
+    "deleted_at": "2025-07-12T18:59:48.855Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10046,
+    "team_number": 89,
+    "created_at": "2025-07-12T14:09:56.684Z",
+    "updated_at": "2025-07-12T14:04:40.118Z",
+    "deleted_at": "2025-07-12T16:18:17.716Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10047,
+    "team_number": 628,
+    "created_at": "2025-07-11T21:49:19.931Z",
+    "updated_at": "2025-07-12T12:47:54.859Z",
+    "deleted_at": "2025-07-11T20:54:38.278Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10048,
+    "team_number": 384,
+    "created_at": "2025-07-12T04:21:45.205Z",
+    "updated_at": "2025-07-11T20:21:42.040Z",
+    "deleted_at": "2025-07-12T01:38:59.493Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10049,
+    "team_number": 673,
+    "created_at": "2025-07-12T17:12:20.955Z",
+    "updated_at": "2025-07-12T03:15:16.955Z",
+    "deleted_at": "2025-07-12T17:15:03.258Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10050,
+    "team_number": 875,
+    "created_at": "2025-07-12T06:03:37.043Z",
+    "updated_at": "2025-07-12T19:42:01.323Z",
+    "deleted_at": "2025-07-12T12:08:06.014Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10051,
+    "team_number": 349,
+    "created_at": "2025-07-11T22:29:42.277Z",
+    "updated_at": "2025-07-12T06:05:52.821Z",
+    "deleted_at": "2025-07-12T13:40:51.742Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10052,
+    "team_number": 878,
+    "created_at": "2025-07-12T17:13:23.077Z",
+    "updated_at": "2025-07-12T13:29:20.905Z",
+    "deleted_at": "2025-07-12T15:05:08.917Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10053,
+    "team_number": 969,
+    "created_at": "2025-07-12T06:11:03.443Z",
+    "updated_at": "2025-07-12T09:08:15.875Z",
+    "deleted_at": "2025-07-12T09:24:17.864Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10054,
+    "team_number": 294,
+    "created_at": "2025-07-12T01:01:19.242Z",
+    "updated_at": "2025-07-12T08:17:43.483Z",
+    "deleted_at": "2025-07-12T12:38:47.572Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10055,
+    "team_number": 71,
+    "created_at": "2025-07-12T00:21:09.899Z",
+    "updated_at": "2025-07-12T08:45:45.883Z",
+    "deleted_at": "2025-07-12T07:47:46.539Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10056,
+    "team_number": 85,
+    "created_at": "2025-07-11T23:11:56.222Z",
+    "updated_at": "2025-07-12T13:41:41.979Z",
+    "deleted_at": "2025-07-12T07:32:57.471Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10057,
+    "team_number": 967,
+    "created_at": "2025-07-12T05:47:49.985Z",
+    "updated_at": "2025-07-12T06:00:11.767Z",
+    "deleted_at": "2025-07-12T00:42:51.995Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10058,
+    "team_number": 101,
+    "created_at": "2025-07-11T22:04:13.878Z",
+    "updated_at": "2025-07-12T03:14:05.439Z",
+    "deleted_at": "2025-07-12T05:39:35.822Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10059,
+    "team_number": 478,
+    "created_at": "2025-07-12T13:09:56.581Z",
+    "updated_at": "2025-07-11T19:56:48.036Z",
+    "deleted_at": "2025-07-12T04:14:28.911Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10060,
+    "team_number": 775,
+    "created_at": "2025-07-12T09:14:21.516Z",
+    "updated_at": "2025-07-11T22:56:01.190Z",
+    "deleted_at": "2025-07-12T07:11:30.117Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10061,
+    "team_number": 653,
+    "created_at": "2025-07-11T22:27:55.519Z",
+    "updated_at": "2025-07-12T09:08:38.455Z",
+    "deleted_at": "2025-07-12T03:58:03.184Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10062,
+    "team_number": 402,
+    "created_at": "2025-07-12T15:45:17.211Z",
+    "updated_at": "2025-07-12T06:35:56.346Z",
+    "deleted_at": "2025-07-12T07:14:01.857Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10063,
+    "team_number": 302,
+    "created_at": "2025-07-12T12:26:53.711Z",
+    "updated_at": "2025-07-11T23:22:55.288Z",
+    "deleted_at": "2025-07-12T06:40:19.879Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10064,
+    "team_number": 779,
+    "created_at": "2025-07-12T09:12:36.289Z",
+    "updated_at": "2025-07-12T11:04:23.094Z",
+    "deleted_at": "2025-07-12T04:40:56.191Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10065,
+    "team_number": 571,
+    "created_at": "2025-07-12T18:39:30.182Z",
+    "updated_at": "2025-07-12T11:43:51.093Z",
+    "deleted_at": "2025-07-12T19:33:32.301Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10066,
+    "team_number": 173,
+    "created_at": "2025-07-12T10:07:24.048Z",
+    "updated_at": "2025-07-12T06:36:41.788Z",
+    "deleted_at": "2025-07-11T22:09:59.195Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10067,
+    "team_number": 317,
+    "created_at": "2025-07-12T14:40:56.197Z",
+    "updated_at": "2025-07-12T08:38:01.513Z",
+    "deleted_at": "2025-07-12T15:28:44.201Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10068,
+    "team_number": 289,
+    "created_at": "2025-07-12T10:15:39.380Z",
+    "updated_at": "2025-07-12T11:00:34.724Z",
+    "deleted_at": "2025-07-12T08:36:20.192Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10069,
+    "team_number": 507,
+    "created_at": "2025-07-12T15:30:55.257Z",
+    "updated_at": "2025-07-11T19:46:50.837Z",
+    "deleted_at": "2025-07-12T12:13:43.273Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10070,
+    "team_number": 433,
+    "created_at": "2025-07-12T04:35:47.868Z",
+    "updated_at": "2025-07-11T23:11:48.753Z",
+    "deleted_at": "2025-07-12T02:26:18.327Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10071,
+    "team_number": 853,
+    "created_at": "2025-07-12T03:03:20.190Z",
+    "updated_at": "2025-07-12T05:56:08.145Z",
+    "deleted_at": "2025-07-12T09:53:36.252Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10072,
+    "team_number": 721,
+    "created_at": "2025-07-11T23:17:07.511Z",
+    "updated_at": "2025-07-12T05:39:56.714Z",
+    "deleted_at": "2025-07-12T15:15:15.375Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10073,
+    "team_number": 901,
+    "created_at": "2025-07-11T22:17:41.498Z",
+    "updated_at": "2025-07-12T10:56:05.119Z",
+    "deleted_at": "2025-07-12T15:48:16.144Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10074,
+    "team_number": 856,
+    "created_at": "2025-07-11T20:31:17.008Z",
+    "updated_at": "2025-07-12T18:38:21.679Z",
+    "deleted_at": "2025-07-12T19:08:49.755Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10075,
+    "team_number": 439,
+    "created_at": "2025-07-12T03:13:02.583Z",
+    "updated_at": "2025-07-12T17:27:13.064Z",
+    "deleted_at": "2025-07-12T08:44:11.772Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10076,
+    "team_number": 115,
+    "created_at": "2025-07-12T12:30:24.422Z",
+    "updated_at": "2025-07-12T05:39:48.123Z",
+    "deleted_at": "2025-07-12T11:43:21.496Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10077,
+    "team_number": 756,
+    "created_at": "2025-07-12T08:23:16.918Z",
+    "updated_at": "2025-07-12T09:26:57.485Z",
+    "deleted_at": "2025-07-12T17:52:19.523Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10078,
+    "team_number": 9,
+    "created_at": "2025-07-12T18:46:44.923Z",
+    "updated_at": "2025-07-12T05:02:02.283Z",
+    "deleted_at": "2025-07-12T12:30:54.319Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10079,
+    "team_number": 104,
+    "created_at": "2025-07-11T22:55:16.264Z",
+    "updated_at": "2025-07-12T16:18:05.957Z",
+    "deleted_at": "2025-07-12T15:44:54.394Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10080,
+    "team_number": 849,
+    "created_at": "2025-07-12T09:46:09.287Z",
+    "updated_at": "2025-07-12T19:13:10.071Z",
+    "deleted_at": "2025-07-12T03:28:15.364Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10081,
+    "team_number": 554,
+    "created_at": "2025-07-12T10:26:43.700Z",
+    "updated_at": "2025-07-12T18:20:08.405Z",
+    "deleted_at": "2025-07-12T13:46:57.928Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10082,
+    "team_number": 451,
+    "created_at": "2025-07-12T13:17:35.050Z",
+    "updated_at": "2025-07-12T11:30:29.376Z",
+    "deleted_at": "2025-07-12T12:37:23.815Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10083,
+    "team_number": 804,
+    "created_at": "2025-07-12T05:19:28.541Z",
+    "updated_at": "2025-07-12T19:04:04.832Z",
+    "deleted_at": "2025-07-11T20:01:14.245Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10084,
+    "team_number": 192,
+    "created_at": "2025-07-12T13:53:07.827Z",
+    "updated_at": "2025-07-12T00:56:18.453Z",
+    "deleted_at": "2025-07-12T03:31:53.442Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10085,
+    "team_number": 814,
+    "created_at": "2025-07-12T19:40:30.335Z",
+    "updated_at": "2025-07-12T08:38:25.720Z",
+    "deleted_at": "2025-07-12T15:59:22.546Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10086,
+    "team_number": 300,
+    "created_at": "2025-07-12T01:21:29.525Z",
+    "updated_at": "2025-07-12T08:27:40.641Z",
+    "deleted_at": "2025-07-12T16:08:53.166Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10087,
+    "team_number": 923,
+    "created_at": "2025-07-11T23:07:20.526Z",
+    "updated_at": "2025-07-12T14:32:29.619Z",
+    "deleted_at": "2025-07-12T14:06:47.161Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10088,
+    "team_number": 260,
+    "created_at": "2025-07-12T06:41:13.975Z",
+    "updated_at": "2025-07-12T07:39:08.220Z",
+    "deleted_at": "2025-07-12T12:13:41.751Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10089,
+    "team_number": 387,
+    "created_at": "2025-07-12T07:12:56.418Z",
+    "updated_at": "2025-07-12T00:37:09.924Z",
+    "deleted_at": "2025-07-11T20:39:12.493Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10090,
+    "team_number": 568,
+    "created_at": "2025-07-11T20:55:49.668Z",
+    "updated_at": "2025-07-12T01:44:02.231Z",
+    "deleted_at": "2025-07-12T05:46:58.543Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10091,
+    "team_number": 750,
+    "created_at": "2025-07-12T09:39:27.561Z",
+    "updated_at": "2025-07-12T01:09:29.441Z",
+    "deleted_at": "2025-07-12T17:25:17.995Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10092,
+    "team_number": 926,
+    "created_at": "2025-07-11T23:47:37.231Z",
+    "updated_at": "2025-07-11T20:49:11.405Z",
+    "deleted_at": "2025-07-12T03:57:15.761Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10093,
+    "team_number": 413,
+    "created_at": "2025-07-11T22:05:20.287Z",
+    "updated_at": "2025-07-12T11:54:19.807Z",
+    "deleted_at": "2025-07-12T09:24:23.475Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10094,
+    "team_number": 548,
+    "created_at": "2025-07-12T12:06:56.804Z",
+    "updated_at": "2025-07-11T20:00:43.870Z",
+    "deleted_at": "2025-07-12T06:27:09.915Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10095,
+    "team_number": 521,
+    "created_at": "2025-07-11T19:54:36.521Z",
+    "updated_at": "2025-07-12T11:28:10.480Z",
+    "deleted_at": "2025-07-12T09:20:06.565Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10096,
+    "team_number": 464,
+    "created_at": "2025-07-12T12:10:26.733Z",
+    "updated_at": "2025-07-12T05:13:49.101Z",
+    "deleted_at": "2025-07-12T06:04:54.524Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10097,
+    "team_number": 23,
+    "created_at": "2025-07-12T15:00:46.184Z",
+    "updated_at": "2025-07-12T04:48:44.525Z",
+    "deleted_at": "2025-07-12T08:23:04.711Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10098,
+    "team_number": 357,
+    "created_at": "2025-07-12T02:20:12.687Z",
+    "updated_at": "2025-07-11T21:12:09.595Z",
+    "deleted_at": "2025-07-12T16:55:08.253Z",
+    "is_deleted": 0
+  },
+  {
+    "id": 10099,
+    "team_number": 606,
+    "created_at": "2025-07-12T07:06:08.568Z",
+    "updated_at": "2025-07-12T08:01:48.178Z",
+    "deleted_at": "2025-07-12T11:24:04.929Z",
+    "is_deleted": 0
+  }
+]
