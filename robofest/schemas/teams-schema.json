@@ -1,10 +1,14 @@
 {
   "type": "object",
+  "schemaName": "teams",
   "properties": {
     "id": {
       "type": "integer",
-      "minimum": 1,
-      "faker": "number.int"
+      "sequential": {
+        "start": 10000,
+        "step": 1,
+        "counterName": "team_id"
+      }
     },
     "team_number": {
       "type": "integer",

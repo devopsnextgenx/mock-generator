@@ -1,0 +1,59 @@
+{
+  "type": "object",
+  "schemaName": "sponser_donations",
+  "dependentRecords": [{
+    "parentSchema": "sponsers",
+    "minPerParent": 1,
+    "maxPerParent": 50
+  }],
+  "properties": {
+    "id": {
+      "type": "integer",
+      "sequential": {
+        "start": 100000,
+        "step": 1,
+        "counterName": "sponser_donation_id"
+      }
+    },
+    "sponser_id": {
+      "type": "integer",
+      "minimum": 1,
+      "foreignKey": {
+        "schema": "sponsers",
+        "field": "id"
+      }
+    },
+    "amount": {
+      "type": "integer",
+      "minimum": 100,
+      "maximum": 100000,
+      "faker": "number.int"
+    },
+    "donation_date": {
+      "type": "string",
+      "format": "date-time",
+      "faker": "date.recent"
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time",
+      "faker": "date.recent"
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time",
+      "faker": "date.recent"
+    },
+    "deleted_at": {
+      "type": "string",
+      "format": "date-time",
+      "faker": "date.recent"
+    },
+    "is_deleted": {
+      "type": "integer",
+      "enum": [0, 1],
+      "default": 0
+    }
+  },
+  "required": ["id", "sponser_id", "amount", "donation_date", "created_at", "is_deleted"]
+}

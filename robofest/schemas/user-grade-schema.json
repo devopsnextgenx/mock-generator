@@ -1,10 +1,19 @@
 {
   "type": "object",
+  "schemaName": "user_grade",
+  "dependentRecords": [{
+    "parentSchema": "users",
+    "minPerParent": 1,
+    "maxPerParent": 1
+  }],
   "properties": {
     "id": {
       "type": "integer",
-      "minimum": 1,
-      "faker": "number.int"
+      "sequential": {
+        "start": 100000,
+        "step": 1,
+        "counterName": "user_grade_id"
+      }
     },
     "user_id": {
       "type": "integer",

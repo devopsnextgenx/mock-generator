@@ -1,20 +1,41 @@
 {
   "type": "object",
+  "schemaName": "teams_schools",
+  "dependentRecords": [{
+    "parentSchema": "teams",
+    "minPerParent": 1,
+    "maxPerParent": 1
+  }],
+  "uniqueConstraints": [
+    {
+      "columns": ["team_id", "school_id"],
+      "name": "unique_team_school"
+    }
+  ],
   "properties": {
     "id": {
       "type": "integer",
-      "minimum": 1,
-      "faker": "number.int"
+      "sequential": {
+        "start": 100000,
+        "step": 1,
+        "counterName": "sponser_id"
+      }
     },
     "team_id": {
       "type": "integer",
       "minimum": 1,
-      "faker": "number.int"
+      "foreignKey": {
+        "schema": "teams",
+        "field": "id"
+      }
     },
     "school_id": {
       "type": "integer",
       "minimum": 1,
-      "faker": "number.int"
+      "foreignKey": {
+        "schema": "schools",
+        "field": "id"
+      }
     },
     "is_host": {
       "type": "integer",

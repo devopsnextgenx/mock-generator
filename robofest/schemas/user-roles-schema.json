@@ -1,10 +1,19 @@
 {
   "type": "object",
+  "schemaName": "user_roles",
+  "dependentRecords": [{
+    "parentSchema": "users",
+    "minPerParent": 1,
+    "maxPerParent": 1
+  }],
   "properties": {
     "id": {
       "type": "integer",
-      "minimum": 1,
-      "faker": "number.int"
+      "sequential": {
+        "start": 100000,
+        "step": 1,
+        "counterName": "user_role_id"
+      }
     },
     "user_id": {
       "type": "integer",
@@ -17,7 +26,15 @@
     "role": {
       "type": "integer",
       "enum": [1, 2, 3, 4, 5],
-      "description": "Role levels: 1=Student, 2=Mentor, 3=Coach, 4=Admin, 5=SuperAdmin"
+      "description": "Role levels: 1=Student, 2=Mentor, 3=Coach, 4=Admin, 5=SuperAdmin",
+      "percentage": {
+        "1": 70,
+        "2": 20,
+        "3": 9,
+        "4": 0.65,
+        "5": 0.35
+      }
+
     },
     "is_deleted": {
       "type": "integer",

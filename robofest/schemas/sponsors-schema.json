@@ -1,0 +1,44 @@
+{
+  "type": "object",
+  "schemaName": "sponsers",
+  "properties": {
+    "id": {
+      "type": "integer",
+      "sequential": {
+        "start": 1000,
+        "step": 1,
+        "counterName": "sponser_id"
+      }
+    },
+    "sponser_name": {
+      "type": "string",
+      "faker": "company.companyName"
+    },
+    "tier": {
+      "type": "integer",
+      "enum": [1, 2, 3, 4, 5],
+      "description": "Sponsorship tiers: 1=Bronze, 2=Silver, 3=Gold, 4=Platinum, 5=Diamond"
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time",
+      "faker": "date.recent"
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time",
+      "faker": "date.recent"
+    },
+    "deleted_at": {
+      "type": "string",
+      "format": "date-time",
+      "faker": "date.recent"
+    },
+    "is_deleted": {
+      "type": "integer",
+      "enum": [0, 1],
+      "default": 0
+    }
+  },
+  "required": ["id", "sponser_name", "tier", "created_at", "is_deleted"]
+}

@@ -1,18 +1,17 @@
 {
   "type": "object",
-  "dependentRecords": {
-    "parentSchemas": [
+  "schemaName": "user_contacts",
+  "dependentRecords": [
       {
         "schema": "teams",
-        "minPerParent": 3,
-        "maxPerParent": 8
+        "minPerParent": 7,
+        "maxPerParent": 13
       },
       {
-        "schema": "users",
+        "schema": "users", 
         "oneToOne": true
       }
-    ]
-  },
+  ],
   "uniqueConstraints": [
     {
       "columns": ["team_id", "user_id"],
@@ -22,8 +21,11 @@
   "properties": {
     "id": {
       "type": "integer",
-      "minimum": 1,
-      "faker": "number.int"
+      "sequential": {
+        "start": 100000,
+        "step": 1,
+        "counterName": "team_user_id"
+      }
     },
     "user_id": {
       "type": "integer",

@@ -1,0 +1,63 @@
+{
+  "type": "object",
+  "schemaName": "team_sponsers",
+  "dependentRecords": [
+    {
+      "parentSchema": "teams",
+      "minPerParent": 3,
+      "maxPerParent": 15
+  }],
+  "uniqueConstraints": [
+    {
+      "columns": ["team_id", "sponser_id"],
+      "name": "unique_team_sponser"
+    }
+  ],
+  "properties": {
+    "id": {
+      "type": "integer",
+      "sequential": {
+        "start": 100000,
+        "step": 1,
+        "counterName": "team_sponser_id"
+      }
+    },
+    "team_id": {
+      "type": "integer",
+      "minimum": 1,
+      "foreignKey": {
+        "schema": "teams",
+        "field": "id"
+      }
+    },
+    "sponser_id": {
+      "type": "integer",
+      "minimum": 1,
+      "foreignKey": {
+        "schema": "sponsers",
+        "field": "id"
+      }
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time",
+      "faker": "date.recent"
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time",
+      "faker": "date.recent"
+    },
+    "deleted_at": {
+      "type": "string",
+      "format": "date-time",
+      "faker": "date.recent"
+    },
+    "is_deleted": {
+      "type": "integer",
+      "enum": [0, 1],
+      "default": 0
+    }
+  },
+  "required": ["id", "team_id", "sponser_id", "created_at", "is_deleted"]
+}

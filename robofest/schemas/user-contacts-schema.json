@@ -10,7 +10,7 @@
     "id": {
       "type": "integer",
       "sequential": {
-        "start": 1,
+        "start": 100000,
         "step": 1,
         "counterName": "user_contact_id"
       }

@@ -1,0 +1,7002 @@
+[
+  {
+    "id": 1750,
+    "team_id": 10003,
+    "school_id": 43,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1751,
+    "team_id": 10093,
+    "school_id": 210,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1752,
+    "team_id": 10066,
+    "school_id": 252,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1753,
+    "team_id": 10092,
+    "school_id": 13,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1754,
+    "team_id": 10015,
+    "school_id": 145,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1755,
+    "team_id": 10029,
+    "school_id": 41,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1756,
+    "team_id": 10080,
+    "school_id": 244,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1757,
+    "team_id": 10081,
+    "school_id": 121,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1758,
+    "team_id": 10055,
+    "school_id": 151,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1759,
+    "team_id": 10066,
+    "school_id": 187,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1760,
+    "team_id": 10071,
+    "school_id": 71,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1761,
+    "team_id": 10027,
+    "school_id": 41,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1762,
+    "team_id": 10044,
+    "school_id": 147,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1763,
+    "team_id": 10040,
+    "school_id": 119,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1764,
+    "team_id": 10094,
+    "school_id": 150,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1765,
+    "team_id": 10066,
+    "school_id": 242,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1766,
+    "team_id": 10020,
+    "school_id": 18,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1767,
+    "team_id": 10050,
+    "school_id": 56,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1768,
+    "team_id": 10094,
+    "school_id": 53,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1769,
+    "team_id": 10064,
+    "school_id": 234,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1770,
+    "team_id": 10089,
+    "school_id": 89,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1771,
+    "team_id": 10006,
+    "school_id": 129,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1772,
+    "team_id": 10001,
+    "school_id": 91,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1773,
+    "team_id": 10062,
+    "school_id": 134,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1774,
+    "team_id": 10062,
+    "school_id": 63,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1775,
+    "team_id": 10050,
+    "school_id": 216,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1776,
+    "team_id": 10092,
+    "school_id": 117,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1777,
+    "team_id": 10051,
+    "school_id": 247,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1778,
+    "team_id": 10042,
+    "school_id": 178,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1779,
+    "team_id": 10055,
+    "school_id": 32,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1780,
+    "team_id": 10043,
+    "school_id": 131,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1781,
+    "team_id": 10092,
+    "school_id": 160,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1782,
+    "team_id": 10068,
+    "school_id": 113,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1783,
+    "team_id": 10061,
+    "school_id": 24,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1784,
+    "team_id": 10093,
+    "school_id": 91,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1785,
+    "team_id": 10015,
+    "school_id": 83,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1786,
+    "team_id": 10010,
+    "school_id": 221,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1787,
+    "team_id": 10091,
+    "school_id": 107,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1788,
+    "team_id": 10057,
+    "school_id": 42,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1789,
+    "team_id": 10034,
+    "school_id": 139,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1790,
+    "team_id": 10099,
+    "school_id": 183,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1791,
+    "team_id": 10063,
+    "school_id": 181,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1792,
+    "team_id": 10090,
+    "school_id": 143,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1793,
+    "team_id": 10069,
+    "school_id": 48,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1794,
+    "team_id": 10046,
+    "school_id": 130,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1795,
+    "team_id": 10097,
+    "school_id": 70,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1796,
+    "team_id": 10089,
+    "school_id": 224,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1797,
+    "team_id": 10010,
+    "school_id": 245,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1798,
+    "team_id": 10030,
+    "school_id": 188,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1799,
+    "team_id": 10026,
+    "school_id": 199,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1800,
+    "team_id": 10070,
+    "school_id": 71,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1801,
+    "team_id": 10015,
+    "school_id": 258,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1802,
+    "team_id": 10069,
+    "school_id": 153,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1803,
+    "team_id": 10089,
+    "school_id": 81,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1804,
+    "team_id": 10050,
+    "school_id": 42,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1805,
+    "team_id": 10084,
+    "school_id": 99,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1806,
+    "team_id": 10089,
+    "school_id": 134,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1807,
+    "team_id": 10010,
+    "school_id": 242,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1808,
+    "team_id": 10070,
+    "school_id": 207,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1809,
+    "team_id": 10041,
+    "school_id": 222,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1810,
+    "team_id": 10080,
+    "school_id": 199,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1811,
+    "team_id": 10040,
+    "school_id": 135,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1812,
+    "team_id": 10085,
+    "school_id": 136,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1813,
+    "team_id": 10097,
+    "school_id": 157,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1814,
+    "team_id": 10011,
+    "school_id": 114,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1815,
+    "team_id": 10092,
+    "school_id": 126,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1816,
+    "team_id": 10007,
+    "school_id": 70,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1817,
+    "team_id": 10012,
+    "school_id": 42,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1818,
+    "team_id": 10096,
+    "school_id": 129,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1819,
+    "team_id": 10058,
+    "school_id": 23,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1820,
+    "team_id": 10093,
+    "school_id": 82,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1821,
+    "team_id": 10023,
+    "school_id": 219,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1822,
+    "team_id": 10017,
+    "school_id": 135,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1823,
+    "team_id": 10095,
+    "school_id": 188,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1824,
+    "team_id": 10063,
+    "school_id": 81,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1825,
+    "team_id": 10026,
+    "school_id": 151,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1826,
+    "team_id": 10095,
+    "school_id": 196,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1827,
+    "team_id": 10066,
+    "school_id": 238,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1828,
+    "team_id": 10083,
+    "school_id": 98,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1829,
+    "team_id": 10095,
+    "school_id": 24,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1830,
+    "team_id": 10040,
+    "school_id": 16,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1831,
+    "team_id": 10010,
+    "school_id": 205,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1832,
+    "team_id": 10097,
+    "school_id": 242,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1833,
+    "team_id": 10079,
+    "school_id": 189,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1834,
+    "team_id": 10055,
+    "school_id": 212,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1835,
+    "team_id": 10021,
+    "school_id": 150,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1836,
+    "team_id": 10008,
+    "school_id": 123,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1837,
+    "team_id": 10096,
+    "school_id": 75,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1838,
+    "team_id": 10037,
+    "school_id": 80,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1839,
+    "team_id": 10030,
+    "school_id": 162,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1840,
+    "team_id": 10025,
+    "school_id": 96,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1841,
+    "team_id": 10071,
+    "school_id": 165,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1842,
+    "team_id": 10022,
+    "school_id": 239,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1843,
+    "team_id": 10072,
+    "school_id": 61,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1844,
+    "team_id": 10091,
+    "school_id": 173,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1845,
+    "team_id": 10033,
+    "school_id": 184,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1846,
+    "team_id": 10072,
+    "school_id": 165,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1847,
+    "team_id": 10044,
+    "school_id": 174,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1848,
+    "team_id": 10071,
+    "school_id": 212,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1849,
+    "team_id": 10032,
+    "school_id": 253,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1850,
+    "team_id": 10000,
+    "school_id": 128,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1851,
+    "team_id": 10030,
+    "school_id": 93,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1852,
+    "team_id": 10018,
+    "school_id": 122,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1853,
+    "team_id": 10030,
+    "school_id": 191,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1854,
+    "team_id": 10092,
+    "school_id": 157,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1855,
+    "team_id": 10016,
+    "school_id": 81,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1856,
+    "team_id": 10039,
+    "school_id": 118,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1857,
+    "team_id": 10077,
+    "school_id": 115,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1858,
+    "team_id": 10039,
+    "school_id": 173,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1859,
+    "team_id": 10044,
+    "school_id": 181,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1860,
+    "team_id": 10050,
+    "school_id": 87,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1861,
+    "team_id": 10030,
+    "school_id": 163,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1862,
+    "team_id": 10003,
+    "school_id": 68,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1863,
+    "team_id": 10069,
+    "school_id": 185,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1864,
+    "team_id": 10034,
+    "school_id": 133,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1865,
+    "team_id": 10096,
+    "school_id": 255,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1866,
+    "team_id": 10082,
+    "school_id": 176,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1867,
+    "team_id": 10056,
+    "school_id": 62,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1868,
+    "team_id": 10043,
+    "school_id": 158,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1869,
+    "team_id": 10072,
+    "school_id": 98,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1870,
+    "team_id": 10098,
+    "school_id": 24,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1871,
+    "team_id": 10086,
+    "school_id": 253,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1872,
+    "team_id": 10058,
+    "school_id": 30,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1873,
+    "team_id": 10068,
+    "school_id": 81,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1874,
+    "team_id": 10054,
+    "school_id": 115,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1875,
+    "team_id": 10087,
+    "school_id": 92,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1876,
+    "team_id": 10071,
+    "school_id": 228,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1877,
+    "team_id": 10025,
+    "school_id": 150,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1878,
+    "team_id": 10083,
+    "school_id": 119,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1879,
+    "team_id": 10013,
+    "school_id": 118,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1880,
+    "team_id": 10038,
+    "school_id": 155,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1881,
+    "team_id": 10000,
+    "school_id": 82,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1882,
+    "team_id": 10000,
+    "school_id": 175,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1883,
+    "team_id": 10080,
+    "school_id": 149,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1884,
+    "team_id": 10001,
+    "school_id": 124,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1885,
+    "team_id": 10016,
+    "school_id": 164,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1886,
+    "team_id": 10081,
+    "school_id": 116,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1887,
+    "team_id": 10063,
+    "school_id": 126,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1888,
+    "team_id": 10090,
+    "school_id": 220,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1889,
+    "team_id": 10067,
+    "school_id": 77,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1890,
+    "team_id": 10038,
+    "school_id": 132,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1891,
+    "team_id": 10061,
+    "school_id": 104,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1892,
+    "team_id": 10006,
+    "school_id": 214,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1893,
+    "team_id": 10050,
+    "school_id": 227,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1894,
+    "team_id": 10038,
+    "school_id": 114,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1895,
+    "team_id": 10018,
+    "school_id": 44,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1896,
+    "team_id": 10085,
+    "school_id": 49,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1897,
+    "team_id": 10074,
+    "school_id": 160,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1898,
+    "team_id": 10003,
+    "school_id": 175,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1899,
+    "team_id": 10095,
+    "school_id": 26,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1900,
+    "team_id": 10026,
+    "school_id": 256,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1901,
+    "team_id": 10072,
+    "school_id": 187,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1902,
+    "team_id": 10064,
+    "school_id": 104,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1903,
+    "team_id": 10033,
+    "school_id": 52,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1904,
+    "team_id": 10019,
+    "school_id": 213,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1905,
+    "team_id": 10006,
+    "school_id": 199,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1906,
+    "team_id": 10033,
+    "school_id": 152,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1907,
+    "team_id": 10076,
+    "school_id": 31,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1908,
+    "team_id": 10010,
+    "school_id": 235,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1909,
+    "team_id": 10010,
+    "school_id": 42,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1910,
+    "team_id": 10080,
+    "school_id": 187,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1911,
+    "team_id": 10002,
+    "school_id": 133,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1912,
+    "team_id": 10006,
+    "school_id": 104,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1913,
+    "team_id": 10086,
+    "school_id": 146,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1914,
+    "team_id": 10038,
+    "school_id": 27,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1915,
+    "team_id": 10000,
+    "school_id": 56,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1916,
+    "team_id": 10047,
+    "school_id": 123,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1917,
+    "team_id": 10050,
+    "school_id": 52,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1918,
+    "team_id": 10054,
+    "school_id": 121,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1919,
+    "team_id": 10092,
+    "school_id": 160,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1920,
+    "team_id": 10097,
+    "school_id": 239,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1921,
+    "team_id": 10065,
+    "school_id": 97,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1922,
+    "team_id": 10068,
+    "school_id": 48,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1923,
+    "team_id": 10059,
+    "school_id": 61,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1924,
+    "team_id": 10034,
+    "school_id": 95,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1925,
+    "team_id": 10016,
+    "school_id": 49,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1926,
+    "team_id": 10000,
+    "school_id": 40,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1927,
+    "team_id": 10056,
+    "school_id": 49,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1928,
+    "team_id": 10068,
+    "school_id": 217,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1929,
+    "team_id": 10085,
+    "school_id": 83,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1930,
+    "team_id": 10013,
+    "school_id": 225,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1931,
+    "team_id": 10097,
+    "school_id": 204,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1932,
+    "team_id": 10053,
+    "school_id": 142,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1933,
+    "team_id": 10074,
+    "school_id": 72,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1934,
+    "team_id": 10037,
+    "school_id": 23,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1935,
+    "team_id": 10012,
+    "school_id": 201,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1936,
+    "team_id": 10072,
+    "school_id": 181,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1937,
+    "team_id": 10045,
+    "school_id": 107,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1938,
+    "team_id": 10024,
+    "school_id": 136,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1939,
+    "team_id": 10045,
+    "school_id": 69,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1940,
+    "team_id": 10010,
+    "school_id": 15,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1941,
+    "team_id": 10061,
+    "school_id": 88,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1942,
+    "team_id": 10002,
+    "school_id": 117,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1943,
+    "team_id": 10029,
+    "school_id": 140,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1944,
+    "team_id": 10079,
+    "school_id": 225,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1945,
+    "team_id": 10020,
+    "school_id": 163,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1946,
+    "team_id": 10045,
+    "school_id": 58,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1947,
+    "team_id": 10075,
+    "school_id": 216,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1948,
+    "team_id": 10076,
+    "school_id": 167,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1949,
+    "team_id": 10015,
+    "school_id": 107,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1950,
+    "team_id": 10010,
+    "school_id": 191,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1951,
+    "team_id": 10065,
+    "school_id": 69,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1952,
+    "team_id": 10059,
+    "school_id": 62,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1953,
+    "team_id": 10054,
+    "school_id": 26,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1954,
+    "team_id": 10009,
+    "school_id": 61,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1955,
+    "team_id": 10049,
+    "school_id": 100,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1956,
+    "team_id": 10001,
+    "school_id": 108,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1957,
+    "team_id": 10012,
+    "school_id": 132,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1958,
+    "team_id": 10013,
+    "school_id": 159,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1959,
+    "team_id": 10040,
+    "school_id": 199,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1960,
+    "team_id": 10034,
+    "school_id": 155,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1961,
+    "team_id": 10071,
+    "school_id": 22,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1962,
+    "team_id": 10075,
+    "school_id": 251,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1963,
+    "team_id": 10060,
+    "school_id": 141,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1964,
+    "team_id": 10037,
+    "school_id": 144,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1965,
+    "team_id": 10039,
+    "school_id": 159,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1966,
+    "team_id": 10097,
+    "school_id": 193,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1967,
+    "team_id": 10013,
+    "school_id": 43,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1968,
+    "team_id": 10063,
+    "school_id": 191,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1969,
+    "team_id": 10013,
+    "school_id": 180,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1970,
+    "team_id": 10014,
+    "school_id": 110,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1971,
+    "team_id": 10023,
+    "school_id": 137,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1972,
+    "team_id": 10056,
+    "school_id": 32,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1973,
+    "team_id": 10025,
+    "school_id": 151,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1974,
+    "team_id": 10007,
+    "school_id": 174,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1975,
+    "team_id": 10069,
+    "school_id": 134,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1976,
+    "team_id": 10063,
+    "school_id": 187,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1977,
+    "team_id": 10029,
+    "school_id": 53,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1978,
+    "team_id": 10045,
+    "school_id": 202,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1979,
+    "team_id": 10060,
+    "school_id": 136,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1980,
+    "team_id": 10089,
+    "school_id": 92,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1981,
+    "team_id": 10075,
+    "school_id": 131,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1982,
+    "team_id": 10085,
+    "school_id": 249,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1983,
+    "team_id": 10026,
+    "school_id": 106,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1984,
+    "team_id": 10086,
+    "school_id": 181,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1985,
+    "team_id": 10024,
+    "school_id": 168,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1986,
+    "team_id": 10090,
+    "school_id": 248,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1987,
+    "team_id": 10038,
+    "school_id": 227,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1988,
+    "team_id": 10072,
+    "school_id": 163,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1989,
+    "team_id": 10040,
+    "school_id": 246,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1990,
+    "team_id": 10086,
+    "school_id": 57,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1991,
+    "team_id": 10004,
+    "school_id": 71,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1992,
+    "team_id": 10096,
+    "school_id": 165,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1993,
+    "team_id": 10092,
+    "school_id": 88,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1994,
+    "team_id": 10028,
+    "school_id": 134,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1995,
+    "team_id": 10084,
+    "school_id": 214,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1996,
+    "team_id": 10042,
+    "school_id": 42,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1997,
+    "team_id": 10005,
+    "school_id": 175,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1998,
+    "team_id": 10058,
+    "school_id": 59,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 1999,
+    "team_id": 10095,
+    "school_id": 137,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2000,
+    "team_id": 10085,
+    "school_id": 223,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2001,
+    "team_id": 10064,
+    "school_id": 146,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2002,
+    "team_id": 10079,
+    "school_id": 116,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2003,
+    "team_id": 10013,
+    "school_id": 49,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2004,
+    "team_id": 10055,
+    "school_id": 127,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2005,
+    "team_id": 10019,
+    "school_id": 166,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2006,
+    "team_id": 10033,
+    "school_id": 107,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2007,
+    "team_id": 10001,
+    "school_id": 54,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2008,
+    "team_id": 10070,
+    "school_id": 205,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2009,
+    "team_id": 10018,
+    "school_id": 78,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2010,
+    "team_id": 10032,
+    "school_id": 147,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2011,
+    "team_id": 10006,
+    "school_id": 124,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2012,
+    "team_id": 10099,
+    "school_id": 184,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2013,
+    "team_id": 10007,
+    "school_id": 35,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2014,
+    "team_id": 10053,
+    "school_id": 99,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2015,
+    "team_id": 10087,
+    "school_id": 53,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2016,
+    "team_id": 10084,
+    "school_id": 242,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2017,
+    "team_id": 10006,
+    "school_id": 137,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2018,
+    "team_id": 10023,
+    "school_id": 158,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2019,
+    "team_id": 10059,
+    "school_id": 129,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2020,
+    "team_id": 10008,
+    "school_id": 100,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2021,
+    "team_id": 10047,
+    "school_id": 111,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2022,
+    "team_id": 10009,
+    "school_id": 195,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2023,
+    "team_id": 10031,
+    "school_id": 68,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2024,
+    "team_id": 10076,
+    "school_id": 174,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2025,
+    "team_id": 10001,
+    "school_id": 35,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2026,
+    "team_id": 10035,
+    "school_id": 218,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2027,
+    "team_id": 10035,
+    "school_id": 130,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2028,
+    "team_id": 10006,
+    "school_id": 95,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2029,
+    "team_id": 10010,
+    "school_id": 64,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2030,
+    "team_id": 10037,
+    "school_id": 95,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2031,
+    "team_id": 10032,
+    "school_id": 222,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2032,
+    "team_id": 10049,
+    "school_id": 216,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2033,
+    "team_id": 10025,
+    "school_id": 105,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2034,
+    "team_id": 10015,
+    "school_id": 97,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2035,
+    "team_id": 10020,
+    "school_id": 26,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2036,
+    "team_id": 10048,
+    "school_id": 29,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2037,
+    "team_id": 10060,
+    "school_id": 247,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2038,
+    "team_id": 10073,
+    "school_id": 33,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2039,
+    "team_id": 10096,
+    "school_id": 43,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2040,
+    "team_id": 10017,
+    "school_id": 69,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2041,
+    "team_id": 10027,
+    "school_id": 240,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2042,
+    "team_id": 10085,
+    "school_id": 27,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2043,
+    "team_id": 10015,
+    "school_id": 170,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2044,
+    "team_id": 10071,
+    "school_id": 157,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2045,
+    "team_id": 10016,
+    "school_id": 193,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2046,
+    "team_id": 10015,
+    "school_id": 144,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2047,
+    "team_id": 10048,
+    "school_id": 229,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2048,
+    "team_id": 10046,
+    "school_id": 34,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2049,
+    "team_id": 10025,
+    "school_id": 75,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2050,
+    "team_id": 10050,
+    "school_id": 47,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2051,
+    "team_id": 10037,
+    "school_id": 102,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2052,
+    "team_id": 10017,
+    "school_id": 61,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2053,
+    "team_id": 10018,
+    "school_id": 75,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2054,
+    "team_id": 10082,
+    "school_id": 220,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2055,
+    "team_id": 10044,
+    "school_id": 59,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2056,
+    "team_id": 10037,
+    "school_id": 152,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2057,
+    "team_id": 10043,
+    "school_id": 18,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2058,
+    "team_id": 10026,
+    "school_id": 250,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2059,
+    "team_id": 10028,
+    "school_id": 173,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2060,
+    "team_id": 10010,
+    "school_id": 101,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2061,
+    "team_id": 10085,
+    "school_id": 39,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2062,
+    "team_id": 10046,
+    "school_id": 10,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2063,
+    "team_id": 10055,
+    "school_id": 42,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2064,
+    "team_id": 10009,
+    "school_id": 233,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2065,
+    "team_id": 10038,
+    "school_id": 98,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2066,
+    "team_id": 10068,
+    "school_id": 47,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2067,
+    "team_id": 10095,
+    "school_id": 26,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2068,
+    "team_id": 10096,
+    "school_id": 240,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2069,
+    "team_id": 10055,
+    "school_id": 151,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2070,
+    "team_id": 10076,
+    "school_id": 207,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2071,
+    "team_id": 10031,
+    "school_id": 219,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2072,
+    "team_id": 10067,
+    "school_id": 93,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2073,
+    "team_id": 10009,
+    "school_id": 228,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2074,
+    "team_id": 10003,
+    "school_id": 182,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2075,
+    "team_id": 10082,
+    "school_id": 258,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2076,
+    "team_id": 10040,
+    "school_id": 154,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2077,
+    "team_id": 10067,
+    "school_id": 18,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2078,
+    "team_id": 10000,
+    "school_id": 42,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2079,
+    "team_id": 10042,
+    "school_id": 191,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2080,
+    "team_id": 10026,
+    "school_id": 95,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2081,
+    "team_id": 10020,
+    "school_id": 173,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2082,
+    "team_id": 10050,
+    "school_id": 204,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2083,
+    "team_id": 10077,
+    "school_id": 233,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2084,
+    "team_id": 10038,
+    "school_id": 173,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2085,
+    "team_id": 10075,
+    "school_id": 64,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2086,
+    "team_id": 10012,
+    "school_id": 203,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2087,
+    "team_id": 10052,
+    "school_id": 102,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2088,
+    "team_id": 10061,
+    "school_id": 231,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2089,
+    "team_id": 10086,
+    "school_id": 182,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2090,
+    "team_id": 10072,
+    "school_id": 237,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2091,
+    "team_id": 10091,
+    "school_id": 242,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2092,
+    "team_id": 10039,
+    "school_id": 49,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2093,
+    "team_id": 10073,
+    "school_id": 10,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2094,
+    "team_id": 10068,
+    "school_id": 136,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2095,
+    "team_id": 10064,
+    "school_id": 232,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2096,
+    "team_id": 10048,
+    "school_id": 53,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2097,
+    "team_id": 10093,
+    "school_id": 83,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2098,
+    "team_id": 10054,
+    "school_id": 111,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2099,
+    "team_id": 10089,
+    "school_id": 25,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2100,
+    "team_id": 10092,
+    "school_id": 35,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2101,
+    "team_id": 10054,
+    "school_id": 152,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2102,
+    "team_id": 10013,
+    "school_id": 166,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2103,
+    "team_id": 10073,
+    "school_id": 238,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2104,
+    "team_id": 10039,
+    "school_id": 232,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2105,
+    "team_id": 10002,
+    "school_id": 90,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2106,
+    "team_id": 10099,
+    "school_id": 78,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2107,
+    "team_id": 10031,
+    "school_id": 34,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2108,
+    "team_id": 10075,
+    "school_id": 137,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2109,
+    "team_id": 10084,
+    "school_id": 164,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2110,
+    "team_id": 10043,
+    "school_id": 223,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2111,
+    "team_id": 10063,
+    "school_id": 140,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2112,
+    "team_id": 10090,
+    "school_id": 52,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2113,
+    "team_id": 10077,
+    "school_id": 179,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2114,
+    "team_id": 10044,
+    "school_id": 46,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2115,
+    "team_id": 10041,
+    "school_id": 246,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2116,
+    "team_id": 10036,
+    "school_id": 93,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2117,
+    "team_id": 10037,
+    "school_id": 29,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2118,
+    "team_id": 10002,
+    "school_id": 131,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2119,
+    "team_id": 10089,
+    "school_id": 99,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2120,
+    "team_id": 10042,
+    "school_id": 197,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2121,
+    "team_id": 10031,
+    "school_id": 257,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2122,
+    "team_id": 10011,
+    "school_id": 255,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2123,
+    "team_id": 10001,
+    "school_id": 167,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2124,
+    "team_id": 10017,
+    "school_id": 138,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2125,
+    "team_id": 10056,
+    "school_id": 198,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2126,
+    "team_id": 10059,
+    "school_id": 154,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2127,
+    "team_id": 10016,
+    "school_id": 152,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2128,
+    "team_id": 10077,
+    "school_id": 110,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2129,
+    "team_id": 10076,
+    "school_id": 112,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2130,
+    "team_id": 10039,
+    "school_id": 258,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2131,
+    "team_id": 10063,
+    "school_id": 144,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2132,
+    "team_id": 10053,
+    "school_id": 24,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2133,
+    "team_id": 10008,
+    "school_id": 229,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2134,
+    "team_id": 10083,
+    "school_id": 20,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2135,
+    "team_id": 10064,
+    "school_id": 10,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2136,
+    "team_id": 10071,
+    "school_id": 214,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2137,
+    "team_id": 10079,
+    "school_id": 38,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2138,
+    "team_id": 10069,
+    "school_id": 249,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2139,
+    "team_id": 10078,
+    "school_id": 27,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2140,
+    "team_id": 10002,
+    "school_id": 62,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2141,
+    "team_id": 10090,
+    "school_id": 159,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2142,
+    "team_id": 10047,
+    "school_id": 132,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2143,
+    "team_id": 10019,
+    "school_id": 52,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2144,
+    "team_id": 10033,
+    "school_id": 198,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2145,
+    "team_id": 10000,
+    "school_id": 96,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2146,
+    "team_id": 10013,
+    "school_id": 207,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2147,
+    "team_id": 10086,
+    "school_id": 12,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2148,
+    "team_id": 10014,
+    "school_id": 147,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2149,
+    "team_id": 10040,
+    "school_id": 129,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2150,
+    "team_id": 10064,
+    "school_id": 33,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2151,
+    "team_id": 10090,
+    "school_id": 194,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2152,
+    "team_id": 10027,
+    "school_id": 69,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2153,
+    "team_id": 10096,
+    "school_id": 257,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2154,
+    "team_id": 10008,
+    "school_id": 28,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2155,
+    "team_id": 10016,
+    "school_id": 33,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2156,
+    "team_id": 10095,
+    "school_id": 244,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2157,
+    "team_id": 10056,
+    "school_id": 62,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2158,
+    "team_id": 10072,
+    "school_id": 22,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2159,
+    "team_id": 10069,
+    "school_id": 110,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2160,
+    "team_id": 10085,
+    "school_id": 255,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2161,
+    "team_id": 10039,
+    "school_id": 258,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2162,
+    "team_id": 10033,
+    "school_id": 157,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2163,
+    "team_id": 10005,
+    "school_id": 113,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2164,
+    "team_id": 10048,
+    "school_id": 173,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2165,
+    "team_id": 10041,
+    "school_id": 72,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2166,
+    "team_id": 10008,
+    "school_id": 145,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2167,
+    "team_id": 10094,
+    "school_id": 236,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2168,
+    "team_id": 10006,
+    "school_id": 167,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2169,
+    "team_id": 10004,
+    "school_id": 37,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2170,
+    "team_id": 10010,
+    "school_id": 73,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2171,
+    "team_id": 10012,
+    "school_id": 189,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2172,
+    "team_id": 10008,
+    "school_id": 121,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2173,
+    "team_id": 10071,
+    "school_id": 155,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2174,
+    "team_id": 10091,
+    "school_id": 87,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2175,
+    "team_id": 10082,
+    "school_id": 205,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2176,
+    "team_id": 10070,
+    "school_id": 233,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2177,
+    "team_id": 10014,
+    "school_id": 238,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2178,
+    "team_id": 10076,
+    "school_id": 143,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2179,
+    "team_id": 10053,
+    "school_id": 251,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2180,
+    "team_id": 10066,
+    "school_id": 67,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2181,
+    "team_id": 10045,
+    "school_id": 193,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2182,
+    "team_id": 10025,
+    "school_id": 149,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2183,
+    "team_id": 10032,
+    "school_id": 125,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2184,
+    "team_id": 10008,
+    "school_id": 208,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2185,
+    "team_id": 10007,
+    "school_id": 82,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2186,
+    "team_id": 10029,
+    "school_id": 44,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2187,
+    "team_id": 10077,
+    "school_id": 231,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2188,
+    "team_id": 10010,
+    "school_id": 235,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2189,
+    "team_id": 10080,
+    "school_id": 223,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2190,
+    "team_id": 10076,
+    "school_id": 226,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2191,
+    "team_id": 10004,
+    "school_id": 216,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2192,
+    "team_id": 10074,
+    "school_id": 156,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2193,
+    "team_id": 10000,
+    "school_id": 59,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2194,
+    "team_id": 10017,
+    "school_id": 112,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2195,
+    "team_id": 10065,
+    "school_id": 180,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2196,
+    "team_id": 10054,
+    "school_id": 155,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2197,
+    "team_id": 10074,
+    "school_id": 209,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2198,
+    "team_id": 10092,
+    "school_id": 47,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2199,
+    "team_id": 10095,
+    "school_id": 102,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2200,
+    "team_id": 10007,
+    "school_id": 82,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2201,
+    "team_id": 10081,
+    "school_id": 131,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2202,
+    "team_id": 10081,
+    "school_id": 76,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2203,
+    "team_id": 10000,
+    "school_id": 48,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2204,
+    "team_id": 10037,
+    "school_id": 227,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2205,
+    "team_id": 10043,
+    "school_id": 45,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2206,
+    "team_id": 10077,
+    "school_id": 191,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2207,
+    "team_id": 10075,
+    "school_id": 52,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2208,
+    "team_id": 10086,
+    "school_id": 42,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2209,
+    "team_id": 10047,
+    "school_id": 17,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2210,
+    "team_id": 10086,
+    "school_id": 173,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2211,
+    "team_id": 10068,
+    "school_id": 193,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2212,
+    "team_id": 10013,
+    "school_id": 210,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2213,
+    "team_id": 10097,
+    "school_id": 92,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2214,
+    "team_id": 10046,
+    "school_id": 100,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2215,
+    "team_id": 10039,
+    "school_id": 68,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2216,
+    "team_id": 10074,
+    "school_id": 84,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2217,
+    "team_id": 10069,
+    "school_id": 46,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2218,
+    "team_id": 10033,
+    "school_id": 147,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2219,
+    "team_id": 10041,
+    "school_id": 224,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2220,
+    "team_id": 10027,
+    "school_id": 155,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2221,
+    "team_id": 10095,
+    "school_id": 240,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2222,
+    "team_id": 10054,
+    "school_id": 137,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2223,
+    "team_id": 10019,
+    "school_id": 114,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2224,
+    "team_id": 10050,
+    "school_id": 100,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2225,
+    "team_id": 10032,
+    "school_id": 155,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2226,
+    "team_id": 10040,
+    "school_id": 13,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2227,
+    "team_id": 10075,
+    "school_id": 257,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2228,
+    "team_id": 10057,
+    "school_id": 113,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2229,
+    "team_id": 10029,
+    "school_id": 211,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2230,
+    "team_id": 10017,
+    "school_id": 195,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2231,
+    "team_id": 10076,
+    "school_id": 108,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2232,
+    "team_id": 10003,
+    "school_id": 245,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2233,
+    "team_id": 10084,
+    "school_id": 251,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2234,
+    "team_id": 10062,
+    "school_id": 65,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2235,
+    "team_id": 10041,
+    "school_id": 196,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2236,
+    "team_id": 10024,
+    "school_id": 104,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2237,
+    "team_id": 10028,
+    "school_id": 84,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2238,
+    "team_id": 10057,
+    "school_id": 150,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2239,
+    "team_id": 10064,
+    "school_id": 19,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2240,
+    "team_id": 10049,
+    "school_id": 74,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2241,
+    "team_id": 10066,
+    "school_id": 70,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2242,
+    "team_id": 10034,
+    "school_id": 79,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2243,
+    "team_id": 10008,
+    "school_id": 228,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2244,
+    "team_id": 10078,
+    "school_id": 61,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2245,
+    "team_id": 10072,
+    "school_id": 165,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2246,
+    "team_id": 10013,
+    "school_id": 109,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2247,
+    "team_id": 10040,
+    "school_id": 127,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2248,
+    "team_id": 10009,
+    "school_id": 19,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2249,
+    "team_id": 10076,
+    "school_id": 184,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2250,
+    "team_id": 10041,
+    "school_id": 109,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2251,
+    "team_id": 10024,
+    "school_id": 252,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2252,
+    "team_id": 10072,
+    "school_id": 62,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2253,
+    "team_id": 10032,
+    "school_id": 245,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2254,
+    "team_id": 10044,
+    "school_id": 58,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2255,
+    "team_id": 10093,
+    "school_id": 68,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2256,
+    "team_id": 10045,
+    "school_id": 47,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2257,
+    "team_id": 10058,
+    "school_id": 94,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2258,
+    "team_id": 10092,
+    "school_id": 72,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2259,
+    "team_id": 10015,
+    "school_id": 202,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2260,
+    "team_id": 10022,
+    "school_id": 140,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2261,
+    "team_id": 10091,
+    "school_id": 152,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2262,
+    "team_id": 10001,
+    "school_id": 191,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2263,
+    "team_id": 10072,
+    "school_id": 78,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2264,
+    "team_id": 10095,
+    "school_id": 19,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2265,
+    "team_id": 10008,
+    "school_id": 238,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2266,
+    "team_id": 10045,
+    "school_id": 206,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2267,
+    "team_id": 10080,
+    "school_id": 249,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2268,
+    "team_id": 10094,
+    "school_id": 72,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2269,
+    "team_id": 10073,
+    "school_id": 164,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2270,
+    "team_id": 10031,
+    "school_id": 250,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2271,
+    "team_id": 10021,
+    "school_id": 36,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2272,
+    "team_id": 10063,
+    "school_id": 172,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2273,
+    "team_id": 10060,
+    "school_id": 231,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2274,
+    "team_id": 10040,
+    "school_id": 92,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2275,
+    "team_id": 10016,
+    "school_id": 125,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2276,
+    "team_id": 10001,
+    "school_id": 243,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2277,
+    "team_id": 10038,
+    "school_id": 85,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2278,
+    "team_id": 10013,
+    "school_id": 217,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2279,
+    "team_id": 10043,
+    "school_id": 104,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2280,
+    "team_id": 10064,
+    "school_id": 225,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2281,
+    "team_id": 10069,
+    "school_id": 106,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2282,
+    "team_id": 10031,
+    "school_id": 177,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2283,
+    "team_id": 10042,
+    "school_id": 244,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2284,
+    "team_id": 10073,
+    "school_id": 102,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2285,
+    "team_id": 10031,
+    "school_id": 232,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2286,
+    "team_id": 10005,
+    "school_id": 165,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2287,
+    "team_id": 10043,
+    "school_id": 111,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2288,
+    "team_id": 10011,
+    "school_id": 232,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2289,
+    "team_id": 10056,
+    "school_id": 114,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2290,
+    "team_id": 10050,
+    "school_id": 177,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2291,
+    "team_id": 10040,
+    "school_id": 141,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2292,
+    "team_id": 10076,
+    "school_id": 64,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2293,
+    "team_id": 10071,
+    "school_id": 63,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2294,
+    "team_id": 10073,
+    "school_id": 53,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2295,
+    "team_id": 10092,
+    "school_id": 216,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2296,
+    "team_id": 10068,
+    "school_id": 169,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2297,
+    "team_id": 10032,
+    "school_id": 199,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2298,
+    "team_id": 10000,
+    "school_id": 243,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2299,
+    "team_id": 10038,
+    "school_id": 100,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2300,
+    "team_id": 10081,
+    "school_id": 142,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2301,
+    "team_id": 10038,
+    "school_id": 16,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2302,
+    "team_id": 10020,
+    "school_id": 156,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2303,
+    "team_id": 10041,
+    "school_id": 189,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2304,
+    "team_id": 10061,
+    "school_id": 131,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2305,
+    "team_id": 10083,
+    "school_id": 182,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2306,
+    "team_id": 10058,
+    "school_id": 166,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2307,
+    "team_id": 10010,
+    "school_id": 214,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2308,
+    "team_id": 10030,
+    "school_id": 166,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2309,
+    "team_id": 10044,
+    "school_id": 244,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2310,
+    "team_id": 10095,
+    "school_id": 80,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2311,
+    "team_id": 10052,
+    "school_id": 246,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2312,
+    "team_id": 10036,
+    "school_id": 71,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2313,
+    "team_id": 10059,
+    "school_id": 98,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2314,
+    "team_id": 10052,
+    "school_id": 191,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2315,
+    "team_id": 10044,
+    "school_id": 42,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2316,
+    "team_id": 10075,
+    "school_id": 72,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2317,
+    "team_id": 10078,
+    "school_id": 234,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2318,
+    "team_id": 10060,
+    "school_id": 170,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2319,
+    "team_id": 10017,
+    "school_id": 184,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2320,
+    "team_id": 10083,
+    "school_id": 161,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2321,
+    "team_id": 10024,
+    "school_id": 101,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2322,
+    "team_id": 10059,
+    "school_id": 114,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2323,
+    "team_id": 10088,
+    "school_id": 171,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2324,
+    "team_id": 10090,
+    "school_id": 171,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2325,
+    "team_id": 10095,
+    "school_id": 48,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2326,
+    "team_id": 10043,
+    "school_id": 77,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2327,
+    "team_id": 10077,
+    "school_id": 103,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2328,
+    "team_id": 10045,
+    "school_id": 185,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2329,
+    "team_id": 10083,
+    "school_id": 62,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2330,
+    "team_id": 10038,
+    "school_id": 42,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2331,
+    "team_id": 10083,
+    "school_id": 140,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2332,
+    "team_id": 10024,
+    "school_id": 151,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2333,
+    "team_id": 10020,
+    "school_id": 113,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2334,
+    "team_id": 10054,
+    "school_id": 53,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2335,
+    "team_id": 10003,
+    "school_id": 136,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2336,
+    "team_id": 10059,
+    "school_id": 156,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2337,
+    "team_id": 10025,
+    "school_id": 78,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2338,
+    "team_id": 10040,
+    "school_id": 82,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2339,
+    "team_id": 10084,
+    "school_id": 215,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2340,
+    "team_id": 10065,
+    "school_id": 125,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2341,
+    "team_id": 10002,
+    "school_id": 46,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2342,
+    "team_id": 10037,
+    "school_id": 160,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2343,
+    "team_id": 10026,
+    "school_id": 204,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2344,
+    "team_id": 10035,
+    "school_id": 196,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2345,
+    "team_id": 10009,
+    "school_id": 94,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2346,
+    "team_id": 10034,
+    "school_id": 127,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2347,
+    "team_id": 10058,
+    "school_id": 130,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2348,
+    "team_id": 10017,
+    "school_id": 103,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2349,
+    "team_id": 10016,
+    "school_id": 211,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2350,
+    "team_id": 10072,
+    "school_id": 246,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2351,
+    "team_id": 10038,
+    "school_id": 109,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2352,
+    "team_id": 10086,
+    "school_id": 91,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2353,
+    "team_id": 10095,
+    "school_id": 234,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2354,
+    "team_id": 10037,
+    "school_id": 155,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2355,
+    "team_id": 10024,
+    "school_id": 82,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2356,
+    "team_id": 10010,
+    "school_id": 31,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2357,
+    "team_id": 10075,
+    "school_id": 27,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2358,
+    "team_id": 10059,
+    "school_id": 190,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2359,
+    "team_id": 10064,
+    "school_id": 124,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2360,
+    "team_id": 10092,
+    "school_id": 142,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2361,
+    "team_id": 10018,
+    "school_id": 204,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2362,
+    "team_id": 10082,
+    "school_id": 103,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2363,
+    "team_id": 10087,
+    "school_id": 147,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2364,
+    "team_id": 10044,
+    "school_id": 66,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2365,
+    "team_id": 10076,
+    "school_id": 137,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2366,
+    "team_id": 10016,
+    "school_id": 47,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2367,
+    "team_id": 10049,
+    "school_id": 250,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2368,
+    "team_id": 10015,
+    "school_id": 157,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2369,
+    "team_id": 10066,
+    "school_id": 196,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2370,
+    "team_id": 10093,
+    "school_id": 251,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2371,
+    "team_id": 10016,
+    "school_id": 80,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2372,
+    "team_id": 10070,
+    "school_id": 243,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2373,
+    "team_id": 10007,
+    "school_id": 215,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2374,
+    "team_id": 10078,
+    "school_id": 17,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2375,
+    "team_id": 10012,
+    "school_id": 198,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2376,
+    "team_id": 10082,
+    "school_id": 225,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2377,
+    "team_id": 10079,
+    "school_id": 56,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2378,
+    "team_id": 10097,
+    "school_id": 97,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2379,
+    "team_id": 10052,
+    "school_id": 138,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2380,
+    "team_id": 10016,
+    "school_id": 103,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2381,
+    "team_id": 10054,
+    "school_id": 124,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2382,
+    "team_id": 10090,
+    "school_id": 44,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2383,
+    "team_id": 10079,
+    "school_id": 243,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2384,
+    "team_id": 10056,
+    "school_id": 227,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2385,
+    "team_id": 10078,
+    "school_id": 40,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2386,
+    "team_id": 10064,
+    "school_id": 176,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2387,
+    "team_id": 10011,
+    "school_id": 238,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2388,
+    "team_id": 10084,
+    "school_id": 69,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2389,
+    "team_id": 10012,
+    "school_id": 82,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2390,
+    "team_id": 10063,
+    "school_id": 237,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2391,
+    "team_id": 10085,
+    "school_id": 180,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2392,
+    "team_id": 10073,
+    "school_id": 256,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2393,
+    "team_id": 10092,
+    "school_id": 114,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2394,
+    "team_id": 10006,
+    "school_id": 123,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2395,
+    "team_id": 10050,
+    "school_id": 243,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2396,
+    "team_id": 10005,
+    "school_id": 124,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2397,
+    "team_id": 10056,
+    "school_id": 145,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2398,
+    "team_id": 10008,
+    "school_id": 17,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2399,
+    "team_id": 10073,
+    "school_id": 230,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2400,
+    "team_id": 10077,
+    "school_id": 192,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2401,
+    "team_id": 10073,
+    "school_id": 245,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2402,
+    "team_id": 10058,
+    "school_id": 182,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2403,
+    "team_id": 10089,
+    "school_id": 255,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2404,
+    "team_id": 10063,
+    "school_id": 79,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2405,
+    "team_id": 10029,
+    "school_id": 200,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2406,
+    "team_id": 10090,
+    "school_id": 181,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2407,
+    "team_id": 10059,
+    "school_id": 165,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2408,
+    "team_id": 10034,
+    "school_id": 84,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2409,
+    "team_id": 10097,
+    "school_id": 51,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2410,
+    "team_id": 10062,
+    "school_id": 140,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2411,
+    "team_id": 10024,
+    "school_id": 99,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2412,
+    "team_id": 10087,
+    "school_id": 104,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2413,
+    "team_id": 10034,
+    "school_id": 152,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2414,
+    "team_id": 10060,
+    "school_id": 197,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2415,
+    "team_id": 10059,
+    "school_id": 211,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2416,
+    "team_id": 10054,
+    "school_id": 53,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2417,
+    "team_id": 10057,
+    "school_id": 73,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2418,
+    "team_id": 10098,
+    "school_id": 33,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2419,
+    "team_id": 10079,
+    "school_id": 139,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2420,
+    "team_id": 10074,
+    "school_id": 24,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2421,
+    "team_id": 10010,
+    "school_id": 118,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2422,
+    "team_id": 10001,
+    "school_id": 24,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2423,
+    "team_id": 10091,
+    "school_id": 139,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2424,
+    "team_id": 10055,
+    "school_id": 53,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2425,
+    "team_id": 10038,
+    "school_id": 259,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2426,
+    "team_id": 10061,
+    "school_id": 200,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2427,
+    "team_id": 10023,
+    "school_id": 133,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2428,
+    "team_id": 10032,
+    "school_id": 138,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2429,
+    "team_id": 10056,
+    "school_id": 255,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2430,
+    "team_id": 10096,
+    "school_id": 165,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2431,
+    "team_id": 10092,
+    "school_id": 56,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2432,
+    "team_id": 10027,
+    "school_id": 215,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2433,
+    "team_id": 10032,
+    "school_id": 154,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2434,
+    "team_id": 10004,
+    "school_id": 226,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2435,
+    "team_id": 10010,
+    "school_id": 27,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2436,
+    "team_id": 10069,
+    "school_id": 106,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2437,
+    "team_id": 10031,
+    "school_id": 40,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2438,
+    "team_id": 10053,
+    "school_id": 12,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2439,
+    "team_id": 10064,
+    "school_id": 67,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2440,
+    "team_id": 10060,
+    "school_id": 47,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2441,
+    "team_id": 10092,
+    "school_id": 93,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2442,
+    "team_id": 10089,
+    "school_id": 27,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2443,
+    "team_id": 10026,
+    "school_id": 83,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2444,
+    "team_id": 10078,
+    "school_id": 162,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2445,
+    "team_id": 10027,
+    "school_id": 133,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2446,
+    "team_id": 10069,
+    "school_id": 148,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2447,
+    "team_id": 10034,
+    "school_id": 11,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2448,
+    "team_id": 10048,
+    "school_id": 23,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2449,
+    "team_id": 10038,
+    "school_id": 156,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2450,
+    "team_id": 10006,
+    "school_id": 116,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2451,
+    "team_id": 10068,
+    "school_id": 76,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2452,
+    "team_id": 10074,
+    "school_id": 63,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2453,
+    "team_id": 10036,
+    "school_id": 71,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2454,
+    "team_id": 10034,
+    "school_id": 90,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2455,
+    "team_id": 10074,
+    "school_id": 80,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2456,
+    "team_id": 10018,
+    "school_id": 187,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2457,
+    "team_id": 10051,
+    "school_id": 153,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2458,
+    "team_id": 10075,
+    "school_id": 192,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2459,
+    "team_id": 10047,
+    "school_id": 169,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2460,
+    "team_id": 10017,
+    "school_id": 91,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2461,
+    "team_id": 10042,
+    "school_id": 254,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2462,
+    "team_id": 10019,
+    "school_id": 19,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2463,
+    "team_id": 10075,
+    "school_id": 228,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2464,
+    "team_id": 10011,
+    "school_id": 149,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2465,
+    "team_id": 10061,
+    "school_id": 250,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2466,
+    "team_id": 10026,
+    "school_id": 30,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2467,
+    "team_id": 10046,
+    "school_id": 234,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2468,
+    "team_id": 10066,
+    "school_id": 92,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2469,
+    "team_id": 10043,
+    "school_id": 196,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2470,
+    "team_id": 10075,
+    "school_id": 87,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2471,
+    "team_id": 10087,
+    "school_id": 133,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2472,
+    "team_id": 10001,
+    "school_id": 232,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2473,
+    "team_id": 10082,
+    "school_id": 15,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2474,
+    "team_id": 10008,
+    "school_id": 228,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2475,
+    "team_id": 10039,
+    "school_id": 109,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2476,
+    "team_id": 10037,
+    "school_id": 178,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2477,
+    "team_id": 10057,
+    "school_id": 237,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2478,
+    "team_id": 10095,
+    "school_id": 51,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2479,
+    "team_id": 10061,
+    "school_id": 188,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2480,
+    "team_id": 10011,
+    "school_id": 253,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2481,
+    "team_id": 10042,
+    "school_id": 147,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2482,
+    "team_id": 10082,
+    "school_id": 89,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2483,
+    "team_id": 10011,
+    "school_id": 255,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2484,
+    "team_id": 10075,
+    "school_id": 107,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2485,
+    "team_id": 10063,
+    "school_id": 213,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2486,
+    "team_id": 10057,
+    "school_id": 25,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2487,
+    "team_id": 10025,
+    "school_id": 188,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2488,
+    "team_id": 10039,
+    "school_id": 105,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2489,
+    "team_id": 10099,
+    "school_id": 77,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2490,
+    "team_id": 10064,
+    "school_id": 214,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2491,
+    "team_id": 10004,
+    "school_id": 255,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2492,
+    "team_id": 10018,
+    "school_id": 245,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2493,
+    "team_id": 10094,
+    "school_id": 244,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2494,
+    "team_id": 10021,
+    "school_id": 213,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2495,
+    "team_id": 10006,
+    "school_id": 114,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2496,
+    "team_id": 10068,
+    "school_id": 95,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2497,
+    "team_id": 10017,
+    "school_id": 152,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2498,
+    "team_id": 10062,
+    "school_id": 46,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2499,
+    "team_id": 10047,
+    "school_id": 198,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2500,
+    "team_id": 10043,
+    "school_id": 110,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2501,
+    "team_id": 10004,
+    "school_id": 78,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2502,
+    "team_id": 10007,
+    "school_id": 173,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2503,
+    "team_id": 10089,
+    "school_id": 239,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2504,
+    "team_id": 10072,
+    "school_id": 251,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2505,
+    "team_id": 10099,
+    "school_id": 56,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2506,
+    "team_id": 10094,
+    "school_id": 26,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2507,
+    "team_id": 10014,
+    "school_id": 155,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2508,
+    "team_id": 10013,
+    "school_id": 176,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2509,
+    "team_id": 10000,
+    "school_id": 184,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2510,
+    "team_id": 10034,
+    "school_id": 152,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2511,
+    "team_id": 10084,
+    "school_id": 134,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2512,
+    "team_id": 10035,
+    "school_id": 92,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2513,
+    "team_id": 10094,
+    "school_id": 61,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2514,
+    "team_id": 10070,
+    "school_id": 154,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2515,
+    "team_id": 10097,
+    "school_id": 216,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2516,
+    "team_id": 10071,
+    "school_id": 133,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2517,
+    "team_id": 10071,
+    "school_id": 205,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2518,
+    "team_id": 10031,
+    "school_id": 153,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2519,
+    "team_id": 10070,
+    "school_id": 143,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2520,
+    "team_id": 10000,
+    "school_id": 161,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2521,
+    "team_id": 10052,
+    "school_id": 151,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2522,
+    "team_id": 10054,
+    "school_id": 195,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2523,
+    "team_id": 10063,
+    "school_id": 130,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2524,
+    "team_id": 10056,
+    "school_id": 106,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2525,
+    "team_id": 10015,
+    "school_id": 136,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2526,
+    "team_id": 10032,
+    "school_id": 259,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2527,
+    "team_id": 10056,
+    "school_id": 85,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2528,
+    "team_id": 10047,
+    "school_id": 161,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2529,
+    "team_id": 10068,
+    "school_id": 191,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2530,
+    "team_id": 10090,
+    "school_id": 108,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2531,
+    "team_id": 10095,
+    "school_id": 227,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2532,
+    "team_id": 10063,
+    "school_id": 126,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2533,
+    "team_id": 10052,
+    "school_id": 192,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2534,
+    "team_id": 10080,
+    "school_id": 232,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2535,
+    "team_id": 10039,
+    "school_id": 17,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2536,
+    "team_id": 10063,
+    "school_id": 180,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2537,
+    "team_id": 10028,
+    "school_id": 48,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2538,
+    "team_id": 10055,
+    "school_id": 16,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2539,
+    "team_id": 10042,
+    "school_id": 102,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2540,
+    "team_id": 10095,
+    "school_id": 243,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2541,
+    "team_id": 10088,
+    "school_id": 224,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2542,
+    "team_id": 10046,
+    "school_id": 23,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2543,
+    "team_id": 10014,
+    "school_id": 236,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2544,
+    "team_id": 10047,
+    "school_id": 135,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2545,
+    "team_id": 10063,
+    "school_id": 129,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2546,
+    "team_id": 10001,
+    "school_id": 119,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2547,
+    "team_id": 10047,
+    "school_id": 100,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2548,
+    "team_id": 10042,
+    "school_id": 135,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2549,
+    "team_id": 10092,
+    "school_id": 241,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2550,
+    "team_id": 10090,
+    "school_id": 186,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2551,
+    "team_id": 10000,
+    "school_id": 148,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2552,
+    "team_id": 10034,
+    "school_id": 245,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2553,
+    "team_id": 10095,
+    "school_id": 65,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2554,
+    "team_id": 10065,
+    "school_id": 78,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2555,
+    "team_id": 10007,
+    "school_id": 102,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2556,
+    "team_id": 10097,
+    "school_id": 65,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2557,
+    "team_id": 10054,
+    "school_id": 189,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2558,
+    "team_id": 10049,
+    "school_id": 113,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2559,
+    "team_id": 10075,
+    "school_id": 119,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2560,
+    "team_id": 10008,
+    "school_id": 241,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2561,
+    "team_id": 10030,
+    "school_id": 46,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2562,
+    "team_id": 10017,
+    "school_id": 69,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2563,
+    "team_id": 10071,
+    "school_id": 18,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2564,
+    "team_id": 10070,
+    "school_id": 184,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2565,
+    "team_id": 10089,
+    "school_id": 213,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2566,
+    "team_id": 10036,
+    "school_id": 100,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2567,
+    "team_id": 10010,
+    "school_id": 181,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2568,
+    "team_id": 10084,
+    "school_id": 137,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2569,
+    "team_id": 10092,
+    "school_id": 128,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2570,
+    "team_id": 10097,
+    "school_id": 58,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2571,
+    "team_id": 10087,
+    "school_id": 152,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2572,
+    "team_id": 10082,
+    "school_id": 117,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2573,
+    "team_id": 10094,
+    "school_id": 104,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2574,
+    "team_id": 10024,
+    "school_id": 212,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2575,
+    "team_id": 10068,
+    "school_id": 78,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2576,
+    "team_id": 10049,
+    "school_id": 152,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2577,
+    "team_id": 10031,
+    "school_id": 169,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2578,
+    "team_id": 10039,
+    "school_id": 145,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2579,
+    "team_id": 10045,
+    "school_id": 19,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2580,
+    "team_id": 10021,
+    "school_id": 115,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2581,
+    "team_id": 10023,
+    "school_id": 122,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2582,
+    "team_id": 10093,
+    "school_id": 151,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2583,
+    "team_id": 10067,
+    "school_id": 236,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2584,
+    "team_id": 10052,
+    "school_id": 31,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2585,
+    "team_id": 10060,
+    "school_id": 95,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2586,
+    "team_id": 10029,
+    "school_id": 49,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2587,
+    "team_id": 10008,
+    "school_id": 204,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2588,
+    "team_id": 10062,
+    "school_id": 153,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2589,
+    "team_id": 10071,
+    "school_id": 129,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2590,
+    "team_id": 10054,
+    "school_id": 219,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2591,
+    "team_id": 10043,
+    "school_id": 242,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2592,
+    "team_id": 10098,
+    "school_id": 212,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2593,
+    "team_id": 10045,
+    "school_id": 149,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2594,
+    "team_id": 10022,
+    "school_id": 233,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2595,
+    "team_id": 10076,
+    "school_id": 151,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2596,
+    "team_id": 10015,
+    "school_id": 139,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2597,
+    "team_id": 10083,
+    "school_id": 203,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2598,
+    "team_id": 10082,
+    "school_id": 249,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2599,
+    "team_id": 10087,
+    "school_id": 56,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2600,
+    "team_id": 10086,
+    "school_id": 213,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2601,
+    "team_id": 10090,
+    "school_id": 35,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2602,
+    "team_id": 10012,
+    "school_id": 147,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2603,
+    "team_id": 10034,
+    "school_id": 175,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2604,
+    "team_id": 10000,
+    "school_id": 167,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2605,
+    "team_id": 10071,
+    "school_id": 227,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2606,
+    "team_id": 10026,
+    "school_id": 142,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2607,
+    "team_id": 10050,
+    "school_id": 234,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2608,
+    "team_id": 10071,
+    "school_id": 86,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2609,
+    "team_id": 10010,
+    "school_id": 165,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2610,
+    "team_id": 10032,
+    "school_id": 136,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2611,
+    "team_id": 10057,
+    "school_id": 139,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2612,
+    "team_id": 10041,
+    "school_id": 221,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2613,
+    "team_id": 10011,
+    "school_id": 57,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2614,
+    "team_id": 10057,
+    "school_id": 208,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2615,
+    "team_id": 10058,
+    "school_id": 139,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2616,
+    "team_id": 10085,
+    "school_id": 193,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2617,
+    "team_id": 10072,
+    "school_id": 159,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2618,
+    "team_id": 10080,
+    "school_id": 198,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2619,
+    "team_id": 10055,
+    "school_id": 81,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2620,
+    "team_id": 10018,
+    "school_id": 28,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2621,
+    "team_id": 10050,
+    "school_id": 26,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2622,
+    "team_id": 10056,
+    "school_id": 71,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2623,
+    "team_id": 10048,
+    "school_id": 241,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2624,
+    "team_id": 10068,
+    "school_id": 131,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2625,
+    "team_id": 10066,
+    "school_id": 173,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2626,
+    "team_id": 10080,
+    "school_id": 205,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2627,
+    "team_id": 10090,
+    "school_id": 31,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2628,
+    "team_id": 10048,
+    "school_id": 68,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2629,
+    "team_id": 10078,
+    "school_id": 124,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2630,
+    "team_id": 10043,
+    "school_id": 185,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2631,
+    "team_id": 10014,
+    "school_id": 49,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2632,
+    "team_id": 10035,
+    "school_id": 244,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2633,
+    "team_id": 10051,
+    "school_id": 104,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2634,
+    "team_id": 10028,
+    "school_id": 183,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2635,
+    "team_id": 10067,
+    "school_id": 47,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2636,
+    "team_id": 10059,
+    "school_id": 38,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2637,
+    "team_id": 10028,
+    "school_id": 53,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2638,
+    "team_id": 10035,
+    "school_id": 238,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2639,
+    "team_id": 10089,
+    "school_id": 48,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2640,
+    "team_id": 10062,
+    "school_id": 212,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2641,
+    "team_id": 10062,
+    "school_id": 86,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2642,
+    "team_id": 10077,
+    "school_id": 203,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2643,
+    "team_id": 10020,
+    "school_id": 190,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2644,
+    "team_id": 10005,
+    "school_id": 134,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2645,
+    "team_id": 10043,
+    "school_id": 41,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2646,
+    "team_id": 10014,
+    "school_id": 87,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2647,
+    "team_id": 10096,
+    "school_id": 10,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2648,
+    "team_id": 10094,
+    "school_id": 86,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2649,
+    "team_id": 10033,
+    "school_id": 80,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2650,
+    "team_id": 10031,
+    "school_id": 253,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2651,
+    "team_id": 10040,
+    "school_id": 146,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2652,
+    "team_id": 10053,
+    "school_id": 205,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2653,
+    "team_id": 10000,
+    "school_id": 190,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2654,
+    "team_id": 10094,
+    "school_id": 148,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2655,
+    "team_id": 10029,
+    "school_id": 215,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2656,
+    "team_id": 10048,
+    "school_id": 194,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2657,
+    "team_id": 10034,
+    "school_id": 187,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2658,
+    "team_id": 10067,
+    "school_id": 84,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2659,
+    "team_id": 10065,
+    "school_id": 231,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2660,
+    "team_id": 10037,
+    "school_id": 96,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2661,
+    "team_id": 10072,
+    "school_id": 27,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2662,
+    "team_id": 10032,
+    "school_id": 258,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2663,
+    "team_id": 10052,
+    "school_id": 114,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2664,
+    "team_id": 10065,
+    "school_id": 216,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2665,
+    "team_id": 10077,
+    "school_id": 115,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2666,
+    "team_id": 10095,
+    "school_id": 225,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2667,
+    "team_id": 10097,
+    "school_id": 193,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2668,
+    "team_id": 10083,
+    "school_id": 24,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2669,
+    "team_id": 10001,
+    "school_id": 184,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2670,
+    "team_id": 10049,
+    "school_id": 39,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2671,
+    "team_id": 10011,
+    "school_id": 107,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2672,
+    "team_id": 10025,
+    "school_id": 163,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2673,
+    "team_id": 10075,
+    "school_id": 213,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2674,
+    "team_id": 10097,
+    "school_id": 249,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2675,
+    "team_id": 10039,
+    "school_id": 124,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2676,
+    "team_id": 10021,
+    "school_id": 103,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2677,
+    "team_id": 10036,
+    "school_id": 84,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2678,
+    "team_id": 10029,
+    "school_id": 32,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2679,
+    "team_id": 10058,
+    "school_id": 61,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2680,
+    "team_id": 10047,
+    "school_id": 179,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2681,
+    "team_id": 10017,
+    "school_id": 19,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2682,
+    "team_id": 10041,
+    "school_id": 213,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2683,
+    "team_id": 10021,
+    "school_id": 239,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2684,
+    "team_id": 10024,
+    "school_id": 154,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2685,
+    "team_id": 10032,
+    "school_id": 249,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2686,
+    "team_id": 10054,
+    "school_id": 88,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2687,
+    "team_id": 10066,
+    "school_id": 19,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2688,
+    "team_id": 10008,
+    "school_id": 20,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2689,
+    "team_id": 10080,
+    "school_id": 76,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2690,
+    "team_id": 10087,
+    "school_id": 245,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2691,
+    "team_id": 10072,
+    "school_id": 21,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2692,
+    "team_id": 10089,
+    "school_id": 68,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2693,
+    "team_id": 10056,
+    "school_id": 54,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2694,
+    "team_id": 10031,
+    "school_id": 87,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2695,
+    "team_id": 10001,
+    "school_id": 221,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2696,
+    "team_id": 10092,
+    "school_id": 220,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2697,
+    "team_id": 10066,
+    "school_id": 169,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2698,
+    "team_id": 10087,
+    "school_id": 46,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2699,
+    "team_id": 10044,
+    "school_id": 74,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2700,
+    "team_id": 10022,
+    "school_id": 12,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2701,
+    "team_id": 10054,
+    "school_id": 148,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2702,
+    "team_id": 10056,
+    "school_id": 140,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2703,
+    "team_id": 10018,
+    "school_id": 153,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2704,
+    "team_id": 10003,
+    "school_id": 215,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2705,
+    "team_id": 10061,
+    "school_id": 42,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2706,
+    "team_id": 10042,
+    "school_id": 21,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2707,
+    "team_id": 10012,
+    "school_id": 237,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2708,
+    "team_id": 10037,
+    "school_id": 166,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2709,
+    "team_id": 10049,
+    "school_id": 258,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2710,
+    "team_id": 10064,
+    "school_id": 119,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2711,
+    "team_id": 10072,
+    "school_id": 22,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2712,
+    "team_id": 10026,
+    "school_id": 234,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2713,
+    "team_id": 10071,
+    "school_id": 227,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2714,
+    "team_id": 10060,
+    "school_id": 153,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2715,
+    "team_id": 10062,
+    "school_id": 99,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2716,
+    "team_id": 10051,
+    "school_id": 160,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2717,
+    "team_id": 10054,
+    "school_id": 253,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2718,
+    "team_id": 10042,
+    "school_id": 127,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2719,
+    "team_id": 10009,
+    "school_id": 62,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2720,
+    "team_id": 10082,
+    "school_id": 213,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2721,
+    "team_id": 10032,
+    "school_id": 130,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2722,
+    "team_id": 10028,
+    "school_id": 74,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2723,
+    "team_id": 10038,
+    "school_id": 100,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2724,
+    "team_id": 10016,
+    "school_id": 84,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2725,
+    "team_id": 10055,
+    "school_id": 212,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2726,
+    "team_id": 10048,
+    "school_id": 184,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2727,
+    "team_id": 10009,
+    "school_id": 239,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2728,
+    "team_id": 10015,
+    "school_id": 45,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2729,
+    "team_id": 10059,
+    "school_id": 129,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2730,
+    "team_id": 10030,
+    "school_id": 245,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2731,
+    "team_id": 10085,
+    "school_id": 137,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2732,
+    "team_id": 10043,
+    "school_id": 176,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2733,
+    "team_id": 10082,
+    "school_id": 104,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2734,
+    "team_id": 10055,
+    "school_id": 34,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2735,
+    "team_id": 10010,
+    "school_id": 226,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2736,
+    "team_id": 10002,
+    "school_id": 43,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2737,
+    "team_id": 10015,
+    "school_id": 159,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2738,
+    "team_id": 10015,
+    "school_id": 25,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2739,
+    "team_id": 10025,
+    "school_id": 75,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2740,
+    "team_id": 10066,
+    "school_id": 122,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2741,
+    "team_id": 10034,
+    "school_id": 228,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2742,
+    "team_id": 10029,
+    "school_id": 25,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2743,
+    "team_id": 10035,
+    "school_id": 34,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2744,
+    "team_id": 10050,
+    "school_id": 136,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2745,
+    "team_id": 10058,
+    "school_id": 85,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2746,
+    "team_id": 10068,
+    "school_id": 10,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2747,
+    "team_id": 10083,
+    "school_id": 241,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2748,
+    "team_id": 10043,
+    "school_id": 131,
+    "is_host": 0,
+    "is_deleted": 0
+  },
+  {
+    "id": 2749,
+    "team_id": 10012,
+    "school_id": 144,
+    "is_host": 0,
+    "is_deleted": 0
+  }
+]

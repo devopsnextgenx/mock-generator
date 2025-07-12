@@ -365,7 +365,7 @@ export class MockDataGenerator {
 
     // Handle custom faker methods
     if (property.faker) {
-      return this.generateFromFaker(property.faker);
+      return this.generateFromFaker(property.faker, property);
     }
 
     // Handle const values
@@ -496,7 +496,7 @@ export class MockDataGenerator {
   /**
    * Generate value using faker method path
    */
-  private generateFromFaker(fakerPath: string): any {
+  private generateFromFaker(fakerPath: string, property?: SchemaProperty): any {
     try {
       const parts = fakerPath.split('.');
       let fakerMethod: any = faker;
@@ -506,6 +506,19 @@ export class MockDataGenerator {
       }
 
       if (typeof fakerMethod === 'function') {
+        // Handle number generation with constraints
+        if (property && (property.type === 'number' || property.type === 'integer') && 
+            (fakerPath === 'number.int' || fakerPath === 'number.float')) {
+          const min = property.minimum ?? 0;
+          const max = property.maximum ?? (property.type === 'integer' ? 1000 : 1000.0);
+          
+          if (fakerPath === 'number.int') {
+            return faker.number.int({ min, max });
+          } else {
+            return faker.number.float({ min, max, fractionDigits: 2 });
+          }
+        }
+        
         return fakerMethod();
       }
 
