@@ -1,1751 +1,2001 @@
 [
   {
     "id": 10,
-    "school_district": "West Mazie",
+    "school_name": "Shanahan and Sons",
+    "school_district": "Cicerocester",
     "school_type": "charter",
-    "grade_level": "K-12",
+    "grade_level": "9-12",
     "is_deleted": 0
   },
   {
     "id": 11,
-    "school_district": "Robelshire",
-    "school_type": "private",
+    "school_name": "Heaney, Boyle and Jast",
+    "school_district": "Lake Jamie",
+    "school_type": "high",
     "grade_level": "K-12",
     "is_deleted": 0
   },
   {
     "id": 12,
-    "school_district": "West Theo",
-    "school_type": "elementary",
-    "grade_level": "K-12",
+    "school_name": "Nader, Miller and Parisian",
+    "school_district": "Blickhaven",
+    "school_type": "private",
+    "grade_level": "9-12",
     "is_deleted": 0
   },
   {
     "id": 13,
-    "school_district": "Fort Rudolphboro",
-    "school_type": "private",
+    "school_name": "Emmerich - Lind",
+    "school_district": "Conroyville",
+    "school_type": "elementary",
     "grade_level": "K-12",
     "is_deleted": 0
   },
   {
     "id": 14,
-    "school_district": "Gusikowskistad",
-    "school_type": "high",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 15,
-    "school_district": "Runolfsdottircester",
-    "school_type": "public",
+    "school_name": "Erdman Group",
+    "school_district": "Trudiemouth",
+    "school_type": "charter",
     "grade_level": "K-12",
     "is_deleted": 0
   },
   {
+    "id": 15,
+    "school_name": "Zemlak, Senger and Mante",
+    "school_district": "Tinley Park",
+    "school_type": "high",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
     "id": 16,
-    "school_district": "New Loy",
-    "school_type": "middle",
-    "grade_level": "9-12",
+    "school_name": "Hilpert - Blick",
+    "school_district": "North Ocie",
+    "school_type": "high",
+    "grade_level": "6-8",
     "is_deleted": 0
   },
   {
     "id": 17,
-    "school_district": "West Keshawnworth",
-    "school_type": "elementary",
+    "school_name": "Gerhold - Bechtelar",
+    "school_district": "Kobycester",
+    "school_type": "charter",
     "grade_level": "K-12",
     "is_deleted": 0
   },
   {
     "id": 18,
-    "school_district": "Fort Angelicaside",
-    "school_type": "high",
+    "school_name": "Kshlerin - Klocko",
+    "school_district": "Bridgeport",
+    "school_type": "elementary",
     "grade_level": "6-8",
     "is_deleted": 0
   },
   {
     "id": 19,
-    "school_district": "Arnehaven",
-    "school_type": "middle",
-    "grade_level": "K-12",
+    "school_name": "Franecki - Schneider",
+    "school_district": "New Brunswick",
+    "school_type": "high",
+    "grade_level": "K-5",
     "is_deleted": 0
   },
   {
     "id": 20,
-    "school_district": "Tampa",
+    "school_name": "Ziemann and Sons",
+    "school_district": "West Rogelio",
     "school_type": "middle",
-    "grade_level": "6-8",
+    "grade_level": "K-5",
     "is_deleted": 0
   },
   {
     "id": 21,
-    "school_district": "Lake Cleoborough",
-    "school_type": "private",
-    "grade_level": "K-12",
+    "school_name": "Legros, Dickinson and Jacobson",
+    "school_district": "Oberbrunnerview",
+    "school_type": "public",
+    "grade_level": "K-5",
     "is_deleted": 0
   },
   {
     "id": 22,
-    "school_district": "North Casey",
-    "school_type": "elementary",
+    "school_name": "Daugherty, Orn and Jenkins",
+    "school_district": "West Earl",
+    "school_type": "middle",
     "grade_level": "K-5",
     "is_deleted": 0
   },
   {
     "id": 23,
-    "school_district": "Pourosstead",
-    "school_type": "middle",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 24,
-    "school_district": "Heathcoteberg",
-    "school_type": "charter",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 25,
-    "school_district": "Lakeville",
-    "school_type": "elementary",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 26,
-    "school_district": "Fort Emely",
-    "school_type": "middle",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 27,
-    "school_district": "Bothell",
-    "school_type": "elementary",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 28,
-    "school_district": "Edfurt",
-    "school_type": "elementary",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 29,
-    "school_district": "East Ivoryton",
-    "school_type": "middle",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 30,
-    "school_district": "New Katelynnworth",
-    "school_type": "elementary",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 31,
-    "school_district": "Harberport",
-    "school_type": "public",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 32,
-    "school_district": "East Mariahport",
-    "school_type": "public",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 33,
-    "school_district": "Halvorsonbury",
-    "school_type": "charter",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 34,
-    "school_district": "Fritschton",
-    "school_type": "high",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 35,
-    "school_district": "La Mesa",
-    "school_type": "high",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 36,
-    "school_district": "Brendonville",
-    "school_type": "public",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 37,
-    "school_district": "Colton",
-    "school_type": "high",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 38,
-    "school_district": "Kiehnberg",
-    "school_type": "high",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 39,
-    "school_district": "Hayescester",
-    "school_type": "elementary",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 40,
-    "school_district": "South Casimer",
-    "school_type": "elementary",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 41,
-    "school_district": "Christopherview",
-    "school_type": "public",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 42,
-    "school_district": "Meganeland",
-    "school_type": "private",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 43,
-    "school_district": "Fort Ritafurt",
-    "school_type": "high",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 44,
-    "school_district": "South Ilene",
-    "school_type": "private",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 45,
-    "school_district": "New Jessikaboro",
-    "school_type": "private",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 46,
-    "school_district": "Gibsonmouth",
-    "school_type": "private",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 47,
-    "school_district": "West Allis",
-    "school_type": "high",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 48,
-    "school_district": "New Geraldshire",
-    "school_type": "elementary",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 49,
-    "school_district": "Branditon",
-    "school_type": "private",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 50,
-    "school_district": "Jonesboro",
-    "school_type": "middle",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 51,
-    "school_district": "Langside",
-    "school_type": "charter",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 52,
-    "school_district": "Fort Idaton",
-    "school_type": "charter",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 53,
-    "school_district": "Stoltenbergfield",
-    "school_type": "public",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 54,
-    "school_district": "Aftonside",
-    "school_type": "public",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 55,
-    "school_district": "Bayerstead",
-    "school_type": "public",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 56,
-    "school_district": "West Velda",
-    "school_type": "elementary",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 57,
-    "school_district": "Alannafield",
-    "school_type": "elementary",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 58,
-    "school_district": "Schoenville",
-    "school_type": "private",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 59,
-    "school_district": "Nienowmouth",
-    "school_type": "middle",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 60,
-    "school_district": "New Alvisfort",
-    "school_type": "middle",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 61,
-    "school_district": "Bufordton",
-    "school_type": "private",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 62,
-    "school_district": "Pagacmouth",
-    "school_type": "private",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 63,
-    "school_district": "North Santina",
-    "school_type": "elementary",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 64,
-    "school_district": "Goodwinmouth",
-    "school_type": "charter",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 65,
-    "school_district": "Danielville",
-    "school_type": "private",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 66,
-    "school_district": "Williamsonborough",
-    "school_type": "charter",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 67,
-    "school_district": "West Oliverstead",
-    "school_type": "high",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 68,
-    "school_district": "Idellstead",
-    "school_type": "elementary",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 69,
-    "school_district": "Lake Celine",
-    "school_type": "private",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 70,
-    "school_district": "Marianachester",
-    "school_type": "charter",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 71,
-    "school_district": "Heaneyworth",
-    "school_type": "high",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 72,
-    "school_district": "Gaithersburg",
-    "school_type": "high",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 73,
-    "school_district": "Ellaville",
-    "school_type": "public",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 74,
-    "school_district": "South Toy",
-    "school_type": "charter",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 75,
-    "school_district": "Alexanehaven",
-    "school_type": "middle",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 76,
-    "school_district": "Lake Karlstead",
-    "school_type": "private",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 77,
-    "school_district": "South Daxfort",
-    "school_type": "high",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 78,
-    "school_district": "Trenton",
-    "school_type": "charter",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 79,
-    "school_district": "Pollichton",
-    "school_type": "public",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 80,
-    "school_district": "Nikolausberg",
-    "school_type": "charter",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 81,
-    "school_district": "East Adalineside",
-    "school_type": "middle",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 82,
-    "school_district": "Lacey",
-    "school_type": "public",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 83,
-    "school_district": "Trehaven",
-    "school_type": "public",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 84,
-    "school_district": "Seanside",
-    "school_type": "high",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 85,
-    "school_district": "West Arely",
-    "school_type": "middle",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 86,
-    "school_district": "Johnstonborough",
-    "school_type": "charter",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 87,
-    "school_district": "South Kobycester",
-    "school_type": "charter",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 88,
-    "school_district": "Jayceeport",
-    "school_type": "public",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 89,
-    "school_district": "South Kaceyburgh",
-    "school_type": "private",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 90,
-    "school_district": "Hilllton",
-    "school_type": "elementary",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 91,
-    "school_district": "South Esmeralda",
-    "school_type": "public",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 92,
-    "school_district": "Fort Juliusberg",
-    "school_type": "high",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 93,
-    "school_district": "Johnstonshire",
-    "school_type": "elementary",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 94,
-    "school_district": "Lake Hannabury",
-    "school_type": "middle",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 95,
-    "school_district": "North Jovani",
-    "school_type": "private",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 96,
+    "school_name": "Reichert - Altenwerth",
     "school_district": "Wittingchester",
     "school_type": "high",
     "grade_level": "6-8",
     "is_deleted": 0
   },
   {
-    "id": 97,
-    "school_district": "Gusikowskitown",
+    "id": 24,
+    "school_name": "Gusikowski, Aufderhar and Spencer",
+    "school_district": "East Alec",
+    "school_type": "private",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 25,
+    "school_name": "Schuppe - Wisoky",
+    "school_district": "Marvincester",
     "school_type": "public",
     "grade_level": "6-8",
     "is_deleted": 0
   },
   {
-    "id": 98,
-    "school_district": "North Pedro",
-    "school_type": "high",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 99,
-    "school_district": "West New York",
-    "school_type": "private",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 100,
-    "school_district": "VonRuedenview",
-    "school_type": "middle",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 101,
-    "school_district": "New Horacioworth",
+    "id": 26,
+    "school_name": "Moore Inc",
+    "school_district": "Horacioworth",
     "school_type": "charter",
     "grade_level": "K-12",
     "is_deleted": 0
   },
   {
-    "id": 102,
-    "school_district": "Chino Hills",
-    "school_type": "private",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 103,
+    "id": 27,
+    "school_name": "Daugherty, Parker and Nader",
     "school_district": "Bowling Green",
     "school_type": "high",
     "grade_level": "K-5",
     "is_deleted": 0
   },
   {
-    "id": 104,
-    "school_district": "Lake Alexa",
+    "id": 28,
+    "school_name": "Rice Inc",
+    "school_district": "Joeybury",
+    "school_type": "high",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 29,
+    "school_name": "Jaskolski, Blick and Mante",
+    "school_district": "Devanville",
+    "school_type": "high",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 30,
+    "school_name": "Buckridge, Breitenberg and Schulist",
+    "school_district": "South Connormouth",
     "school_type": "charter",
     "grade_level": "9-12",
     "is_deleted": 0
   },
   {
-    "id": 105,
-    "school_district": "West Ubaldo",
-    "school_type": "public",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 106,
-    "school_district": "New Kaylieburgh",
-    "school_type": "elementary",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 107,
-    "school_district": "Taunton",
-    "school_type": "elementary",
+    "id": 31,
+    "school_name": "Weimann Group",
+    "school_district": "West Sage",
+    "school_type": "private",
     "grade_level": "K-5",
     "is_deleted": 0
   },
   {
-    "id": 108,
-    "school_district": "Burlington",
-    "school_type": "high",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 109,
-    "school_district": "Lillianafurt",
-    "school_type": "elementary",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 110,
-    "school_district": "Greenville",
-    "school_type": "high",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 111,
-    "school_district": "Donnellytown",
-    "school_type": "public",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 112,
+    "id": 32,
+    "school_name": "Torphy Inc",
     "school_district": "Baytown",
     "school_type": "private",
     "grade_level": "6-8",
     "is_deleted": 0
   },
   {
-    "id": 113,
-    "school_district": "Hesterfurt",
-    "school_type": "public",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 114,
-    "school_district": "Fannyfort",
+    "id": 33,
+    "school_name": "Kautzer - Mraz",
+    "school_district": "North Richland Hills",
     "school_type": "charter",
     "grade_level": "6-8",
     "is_deleted": 0
   },
   {
-    "id": 115,
-    "school_district": "Murazikstead",
-    "school_type": "charter",
+    "id": 34,
+    "school_name": "McLaughlin, Gutkowski and Moore",
+    "school_district": "Marquardtmouth",
+    "school_type": "public",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 35,
+    "school_name": "Kuhic and Sons",
+    "school_district": "Goodyear",
+    "school_type": "public",
     "grade_level": "K-12",
     "is_deleted": 0
   },
   {
-    "id": 116,
-    "school_district": "North Jazlyn",
-    "school_type": "middle",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 117,
-    "school_district": "Port Torrance",
-    "school_type": "high",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 118,
-    "school_district": "Fort Mckenzie",
+    "id": 36,
+    "school_name": "Davis - Haley",
+    "school_district": "Pomona",
     "school_type": "charter",
     "grade_level": "6-8",
     "is_deleted": 0
   },
   {
-    "id": 119,
-    "school_district": "San Juan",
-    "school_type": "public",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 120,
+    "id": 37,
+    "school_name": "Schaefer, Weber and Bergnaum",
     "school_district": "South Zechariahtown",
     "school_type": "public",
     "grade_level": "6-8",
     "is_deleted": 0
   },
   {
-    "id": 121,
-    "school_district": "Fort Randal",
-    "school_type": "elementary",
+    "id": 38,
+    "school_name": "Will Group",
+    "school_district": "Lake Lilianchester",
+    "school_type": "high",
     "grade_level": "9-12",
     "is_deleted": 0
   },
   {
-    "id": 122,
-    "school_district": "Pfannerstillmouth",
-    "school_type": "charter",
-    "grade_level": "K-5",
+    "id": 39,
+    "school_name": "Gibson Inc",
+    "school_district": "Walnut Creek",
+    "school_type": "middle",
+    "grade_level": "K-12",
     "is_deleted": 0
   },
   {
-    "id": 123,
-    "school_district": "East Walton",
-    "school_type": "public",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 124,
-    "school_district": "Brookline",
-    "school_type": "charter",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 125,
+    "id": 40,
+    "school_name": "Nader LLC",
     "school_district": "Fort Terrance",
     "school_type": "private",
     "grade_level": "K-5",
     "is_deleted": 0
   },
   {
-    "id": 126,
-    "school_district": "Sydniefield",
-    "school_type": "elementary",
+    "id": 41,
+    "school_name": "Upton - Schinner",
+    "school_district": "Fort Baronport",
+    "school_type": "public",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 42,
+    "school_name": "Baumbach, Dickinson and Volkman",
+    "school_district": "Tamiastead",
+    "school_type": "middle",
     "grade_level": "K-12",
     "is_deleted": 0
   },
   {
-    "id": 127,
-    "school_district": "South Rodrigomouth",
-    "school_type": "public",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 128,
-    "school_district": "Fort Josiahside",
-    "school_type": "charter",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 129,
-    "school_district": "Cupertino",
-    "school_type": "charter",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 130,
+    "id": 43,
+    "school_name": "Monahan Inc",
     "school_district": "Wyattborough",
     "school_type": "elementary",
     "grade_level": "9-12",
     "is_deleted": 0
   },
   {
-    "id": 131,
-    "school_district": "North Zelma",
-    "school_type": "private",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 132,
-    "school_district": "New Nameport",
+    "id": 44,
+    "school_name": "Bartoletti - Zieme",
+    "school_district": "Whiteville",
     "school_type": "charter",
     "grade_level": "9-12",
     "is_deleted": 0
   },
   {
-    "id": 133,
+    "id": 45,
+    "school_name": "Muller - Rath",
     "school_district": "Lake Marceloport",
     "school_type": "private",
     "grade_level": "6-8",
     "is_deleted": 0
   },
   {
-    "id": 134,
-    "school_district": "Josephborough",
-    "school_type": "high",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 135,
-    "school_district": "Franeckistad",
-    "school_type": "charter",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 136,
-    "school_district": "Ponce",
-    "school_type": "high",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 137,
-    "school_district": "Hermannstad",
-    "school_type": "private",
+    "id": 46,
+    "school_name": "Larson - Hand",
+    "school_district": "Davidstead",
+    "school_type": "middle",
     "grade_level": "9-12",
     "is_deleted": 0
   },
   {
-    "id": 138,
+    "id": 47,
+    "school_name": "Harber - Turcotte",
+    "school_district": "Kuhlmanland",
+    "school_type": "private",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 48,
+    "school_name": "Price - Renner",
     "school_district": "Fort Hesterberg",
     "school_type": "private",
     "grade_level": "K-12",
     "is_deleted": 0
   },
   {
-    "id": 139,
-    "school_district": "New Delia",
-    "school_type": "middle",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 140,
-    "school_district": "Rosendofort",
+    "id": 49,
+    "school_name": "Langworth Inc",
+    "school_district": "Lake Hoythaven",
     "school_type": "private",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 141,
-    "school_district": "East Giafield",
-    "school_type": "public",
     "grade_level": "K-12",
     "is_deleted": 0
   },
   {
-    "id": 142,
-    "school_district": "North Jennieland",
+    "id": 50,
+    "school_name": "Adams - Crist",
+    "school_district": "Port Rupert",
     "school_type": "public",
-    "grade_level": "9-12",
+    "grade_level": "K-5",
     "is_deleted": 0
   },
   {
-    "id": 143,
-    "school_district": "East Eva",
+    "id": 51,
+    "school_name": "Kuhn Inc",
+    "school_district": "New Britain",
     "school_type": "high",
-    "grade_level": "K-12",
+    "grade_level": "K-5",
     "is_deleted": 0
   },
   {
-    "id": 144,
+    "id": 52,
+    "school_name": "Kassulke - Towne",
     "school_district": "East Fausto",
     "school_type": "high",
     "grade_level": "K-5",
     "is_deleted": 0
   },
   {
-    "id": 145,
-    "school_district": "New Nashboro",
-    "school_type": "public",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 146,
-    "school_district": "Bonitashire",
-    "school_type": "private",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 147,
-    "school_district": "Evansville",
-    "school_type": "elementary",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 148,
-    "school_district": "North Ceceliaburgh",
-    "school_type": "middle",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 149,
-    "school_district": "Port Lempibury",
-    "school_type": "elementary",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 150,
-    "school_district": "Kutchstad",
-    "school_type": "high",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 151,
-    "school_district": "North Joaquinfurt",
+    "id": 53,
+    "school_name": "Monahan LLC",
+    "school_district": "Fort Rodger",
     "school_type": "charter",
-    "grade_level": "9-12",
+    "grade_level": "K-5",
     "is_deleted": 0
   },
   {
-    "id": 152,
-    "school_district": "Newport Beach",
+    "id": 54,
+    "school_name": "Schaefer, Heathcote and Wyman",
+    "school_district": "North Libby",
+    "school_type": "elementary",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 55,
+    "school_name": "Fay and Sons",
+    "school_district": "North Otisstead",
+    "school_type": "high",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 56,
+    "school_name": "Okuneva LLC",
+    "school_district": "Franzburgh",
+    "school_type": "elementary",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 57,
+    "school_name": "Moore - Ledner",
+    "school_district": "Ullrichstead",
     "school_type": "elementary",
     "grade_level": "6-8",
     "is_deleted": 0
   },
   {
-    "id": 153,
-    "school_district": "Fort Vallie",
-    "school_type": "private",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 154,
-    "school_district": "South Maximus",
+    "id": 58,
+    "school_name": "Torp Group",
+    "school_district": "Kerlukeburgh",
     "school_type": "high",
-    "grade_level": "6-8",
+    "grade_level": "9-12",
     "is_deleted": 0
   },
   {
-    "id": 155,
-    "school_district": "South Veronaworth",
+    "id": 59,
+    "school_name": "Harber - Casper",
+    "school_district": "Veronaworth",
     "school_type": "public",
     "grade_level": "9-12",
     "is_deleted": 0
   },
   {
-    "id": 156,
-    "school_district": "Giovanishire",
-    "school_type": "charter",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 157,
-    "school_district": "Meriden",
+    "id": 60,
+    "school_name": "Hudson - Welch",
+    "school_district": "Waldohaven",
     "school_type": "charter",
     "grade_level": "9-12",
     "is_deleted": 0
   },
   {
-    "id": 158,
-    "school_district": "Franeymouth",
-    "school_type": "elementary",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 159,
-    "school_district": "Connview",
-    "school_type": "charter",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 160,
-    "school_district": "East Ofelia",
-    "school_type": "elementary",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 161,
-    "school_district": "South Gastonberg",
+    "id": 61,
+    "school_name": "Pollich, Franey and Kub",
+    "school_district": "New Millerville",
     "school_type": "high",
-    "grade_level": "K-12",
+    "grade_level": "9-12",
     "is_deleted": 0
   },
   {
-    "id": 162,
-    "school_district": "Lake Georgechester",
-    "school_type": "private",
+    "id": 62,
+    "school_name": "Hills Inc",
+    "school_district": "Abshirehaven",
+    "school_type": "elementary",
     "grade_level": "6-8",
     "is_deleted": 0
   },
   {
-    "id": 163,
-    "school_district": "East Maggiestead",
-    "school_type": "elementary",
+    "id": 63,
+    "school_name": "Daugherty - Kub",
+    "school_district": "Canton",
+    "school_type": "charter",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 64,
+    "school_name": "Reynolds, Koch and Collier",
+    "school_district": "Lake Lavinialand",
+    "school_type": "private",
     "grade_level": "K-12",
     "is_deleted": 0
   },
   {
-    "id": 164,
-    "school_district": "Newark",
-    "school_type": "charter",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 165,
+    "id": 65,
+    "school_name": "Mante - Pfannerstill",
     "school_district": "West Sierraland",
     "school_type": "elementary",
     "grade_level": "K-5",
     "is_deleted": 0
   },
   {
-    "id": 166,
-    "school_district": "West Buddy",
-    "school_type": "public",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 167,
-    "school_district": "Schuppefurt",
-    "school_type": "high",
+    "id": 66,
+    "school_name": "Heidenreich Inc",
+    "school_district": "Dublin",
+    "school_type": "charter",
     "grade_level": "K-12",
     "is_deleted": 0
   },
   {
-    "id": 168,
+    "id": 67,
+    "school_name": "Hilll - Wisozk",
     "school_district": "South Deshawn",
     "school_type": "high",
     "grade_level": "6-8",
     "is_deleted": 0
   },
   {
-    "id": 169,
-    "school_district": "Twin Falls",
-    "school_type": "private",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 170,
+    "id": 68,
+    "school_name": "Waelchi, Ryan and Becker",
     "school_district": "Jakaylaberg",
     "school_type": "private",
     "grade_level": "9-12",
     "is_deleted": 0
   },
   {
-    "id": 171,
-    "school_district": "Brooklyn Park",
-    "school_type": "elementary",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 172,
+    "id": 69,
+    "school_name": "Buckridge, Connelly and Lemke",
     "school_district": "Windlertown",
     "school_type": "public",
     "grade_level": "K-12",
     "is_deleted": 0
   },
   {
-    "id": 173,
-    "school_district": "O'Reillyworth",
-    "school_type": "elementary",
-    "grade_level": "6-8",
+    "id": 70,
+    "school_name": "O'Reilly, Yundt and Champlin",
+    "school_district": "West Dashawn",
+    "school_type": "high",
+    "grade_level": "K-12",
     "is_deleted": 0
   },
   {
-    "id": 174,
-    "school_district": "East Haskell",
-    "school_type": "public",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 175,
-    "school_district": "Kohlerberg",
+    "id": 71,
+    "school_name": "Sanford - Kohler",
+    "school_district": "West Anastacio",
     "school_type": "middle",
-    "grade_level": "K-5",
+    "grade_level": "K-12",
     "is_deleted": 0
   },
   {
-    "id": 176,
-    "school_district": "Port Jackson",
-    "school_type": "private",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 177,
+    "id": 72,
+    "school_name": "Paucek - Bayer",
     "school_district": "Dickensborough",
     "school_type": "private",
     "grade_level": "6-8",
     "is_deleted": 0
   },
   {
-    "id": 178,
-    "school_district": "West Cesar",
-    "school_type": "private",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 179,
-    "school_district": "Leesburg",
-    "school_type": "private",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 180,
-    "school_district": "Abbottstead",
+    "id": 73,
+    "school_name": "Grady Inc",
+    "school_district": "Ebertworth",
     "school_type": "high",
-    "grade_level": "6-8",
+    "grade_level": "9-12",
     "is_deleted": 0
   },
   {
-    "id": 181,
-    "school_district": "Lake Amya",
-    "school_type": "private",
-    "grade_level": "6-8",
+    "id": 74,
+    "school_name": "Sanford - Abbott",
+    "school_district": "Hermannboro",
+    "school_type": "middle",
+    "grade_level": "9-12",
     "is_deleted": 0
   },
   {
-    "id": 182,
+    "id": 75,
+    "school_name": "Rice and Sons",
     "school_district": "South Flavieview",
     "school_type": "public",
     "grade_level": "K-12",
     "is_deleted": 0
   },
   {
-    "id": 183,
-    "school_district": "Lake Lennaville",
-    "school_type": "public",
+    "id": 76,
+    "school_name": "Nolan LLC",
+    "school_district": "Fort Gloriaboro",
+    "school_type": "charter",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 77,
+    "school_name": "Mills - Price",
+    "school_district": "North Rossie",
+    "school_type": "private",
     "grade_level": "6-8",
     "is_deleted": 0
   },
   {
-    "id": 184,
-    "school_district": "New Zack",
-    "school_type": "high",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 185,
-    "school_district": "Hilpertton",
-    "school_type": "public",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 186,
-    "school_district": "New Ulices",
-    "school_type": "middle",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 187,
-    "school_district": "Kossboro",
-    "school_type": "high",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 188,
-    "school_district": "South Devan",
-    "school_type": "high",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 189,
-    "school_district": "New Efren",
+    "id": 78,
+    "school_name": "West - Hackett",
+    "school_district": "Nicolasport",
     "school_type": "middle",
     "grade_level": "6-8",
     "is_deleted": 0
   },
   {
-    "id": 190,
+    "id": 79,
+    "school_name": "Green - Kling",
+    "school_district": "South Clement",
+    "school_type": "middle",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 80,
+    "school_name": "Haley and Sons",
     "school_district": "Lake Alishashire",
     "school_type": "middle",
     "grade_level": "K-12",
     "is_deleted": 0
   },
   {
-    "id": 191,
-    "school_district": "New Jillian",
-    "school_type": "private",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 192,
-    "school_district": "Daytona Beach",
+    "id": 81,
+    "school_name": "Moen LLC",
+    "school_district": "Okunevafield",
     "school_type": "middle",
     "grade_level": "6-8",
     "is_deleted": 0
   },
   {
-    "id": 193,
-    "school_district": "West Arnoldoview",
-    "school_type": "middle",
-    "grade_level": "9-12",
+    "id": 82,
+    "school_name": "Barrows - Harber",
+    "school_district": "South Cathyfurt",
+    "school_type": "public",
+    "grade_level": "K-12",
     "is_deleted": 0
   },
   {
-    "id": 194,
-    "school_district": "Watsonville",
-    "school_type": "elementary",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 195,
-    "school_district": "Galveston",
+    "id": 83,
+    "school_name": "Rau Group",
+    "school_district": "New Haskell",
     "school_type": "charter",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 196,
-    "school_district": "Chloehaven",
-    "school_type": "high",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 197,
-    "school_district": "Abshirebury",
-    "school_type": "private",
     "grade_level": "K-5",
     "is_deleted": 0
   },
   {
-    "id": 198,
-    "school_district": "Lombard",
-    "school_type": "high",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 199,
-    "school_district": "New Eleanora",
-    "school_type": "middle",
+    "id": 84,
+    "school_name": "Jerde, Schaden and Runolfsson",
+    "school_district": "West Paulaville",
+    "school_type": "private",
     "grade_level": "9-12",
     "is_deleted": 0
   },
   {
-    "id": 200,
-    "school_district": "Toledo",
-    "school_type": "high",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 201,
-    "school_district": "Maryjanestad",
-    "school_type": "high",
+    "id": 85,
+    "school_name": "Stanton - Gerlach",
+    "school_district": "Eleanoraburgh",
+    "school_type": "charter",
     "grade_level": "K-12",
     "is_deleted": 0
   },
   {
-    "id": 202,
-    "school_district": "Ogden",
-    "school_type": "high",
+    "id": 86,
+    "school_name": "Kuhn, Donnelly and Keeling",
+    "school_district": "Luettgenborough",
+    "school_type": "public",
     "grade_level": "K-12",
     "is_deleted": 0
   },
   {
-    "id": 203,
+    "id": 87,
+    "school_name": "Koepp - Terry",
     "school_district": "North Imelda",
     "school_type": "private",
     "grade_level": "9-12",
     "is_deleted": 0
   },
   {
-    "id": 204,
-    "school_district": "North Lois",
-    "school_type": "charter",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 205,
-    "school_district": "Hicksville",
+    "id": 88,
+    "school_name": "Block LLC",
+    "school_district": "Biankaside",
     "school_type": "high",
-    "grade_level": "K-5",
+    "grade_level": "6-8",
     "is_deleted": 0
   },
   {
-    "id": 206,
-    "school_district": "East Madie",
+    "id": 89,
+    "school_name": "Farrell Inc",
+    "school_district": "Turcottemouth",
     "school_type": "public",
     "grade_level": "9-12",
     "is_deleted": 0
   },
   {
-    "id": 207,
-    "school_district": "Miramar",
-    "school_type": "public",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 208,
-    "school_district": "Heavenworth",
+    "id": 90,
+    "school_name": "Zieme, Lesch and Johnston",
+    "school_district": "Daytona Beach",
     "school_type": "middle",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 209,
-    "school_district": "Silver Spring",
-    "school_type": "high",
     "grade_level": "K-12",
     "is_deleted": 0
   },
   {
-    "id": 210,
-    "school_district": "New Isabellefield",
+    "id": 91,
+    "school_name": "Hudson, Shanahan and Bahringer",
+    "school_district": "Isabellefield",
     "school_type": "private",
     "grade_level": "9-12",
     "is_deleted": 0
   },
   {
-    "id": 211,
-    "school_district": "South Ashly",
-    "school_type": "charter",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 212,
-    "school_district": "Fort Llewellyn",
-    "school_type": "high",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 213,
-    "school_district": "Kenner",
-    "school_type": "charter",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 214,
-    "school_district": "Albuquerque",
-    "school_type": "high",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 215,
-    "school_district": "Montgomery",
-    "school_type": "public",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 216,
-    "school_district": "Fort Itzel",
+    "id": 92,
+    "school_name": "Kertzmann Inc",
+    "school_district": "Jaedenberg",
     "school_type": "public",
     "grade_level": "9-12",
     "is_deleted": 0
   },
   {
-    "id": 217,
+    "id": 93,
+    "school_name": "Rau - Williamson",
+    "school_district": "Madisoncester",
+    "school_type": "public",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 94,
+    "school_name": "Jacobi - Stark",
+    "school_district": "Terryburgh",
+    "school_type": "middle",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 95,
+    "school_name": "Stoltenberg - Rodriguez",
     "school_district": "Ellicott City",
     "school_type": "middle",
     "grade_level": "9-12",
     "is_deleted": 0
   },
   {
-    "id": 218,
-    "school_district": "Fisherbury",
-    "school_type": "charter",
-    "grade_level": "6-8",
+    "id": 96,
+    "school_name": "Fisher - Hodkiewicz",
+    "school_district": "Demondville",
+    "school_type": "elementary",
+    "grade_level": "9-12",
     "is_deleted": 0
   },
   {
-    "id": 219,
-    "school_district": "East Merleton",
-    "school_type": "high",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 220,
+    "id": 97,
+    "school_name": "Hirthe and Sons",
     "school_district": "Arden-Arcade",
     "school_type": "middle",
     "grade_level": "K-5",
     "is_deleted": 0
   },
   {
-    "id": 221,
-    "school_district": "South Dorachester",
-    "school_type": "charter",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 222,
-    "school_district": "Mayaguez",
-    "school_type": "charter",
+    "id": 98,
+    "school_name": "Jacobs and Sons",
+    "school_district": "Leannonshire",
+    "school_type": "public",
     "grade_level": "9-12",
     "is_deleted": 0
   },
   {
-    "id": 223,
-    "school_district": "East Leestead",
+    "id": 99,
+    "school_name": "Padberg - Armstrong",
+    "school_district": "New Lauryhaven",
     "school_type": "private",
-    "grade_level": "K-12",
+    "grade_level": "9-12",
     "is_deleted": 0
   },
   {
-    "id": 224,
-    "school_district": "Tessieboro",
-    "school_type": "middle",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 225,
+    "id": 100,
+    "school_name": "Gusikowski, Effertz and Swaniawski",
     "school_district": "New Susanbury",
     "school_type": "elementary",
     "grade_level": "9-12",
     "is_deleted": 0
   },
   {
-    "id": 226,
-    "school_district": "New Rudy",
-    "school_type": "private",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 227,
-    "school_district": "Morartown",
-    "school_type": "elementary",
+    "id": 101,
+    "school_name": "Morissette - Steuber",
+    "school_district": "Stromanfield",
+    "school_type": "charter",
     "grade_level": "K-5",
     "is_deleted": 0
   },
   {
-    "id": 228,
-    "school_district": "East Tara",
-    "school_type": "elementary",
-    "grade_level": "K-12",
+    "id": 102,
+    "school_name": "Beahan and Sons",
+    "school_district": "Fort Carolannefield",
+    "school_type": "high",
+    "grade_level": "K-5",
     "is_deleted": 0
   },
   {
-    "id": 229,
-    "school_district": "Catharineton",
-    "school_type": "charter",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 230,
+    "id": 103,
+    "school_name": "Little Group",
     "school_district": "New Rahsaancester",
     "school_type": "public",
     "grade_level": "6-8",
     "is_deleted": 0
   },
   {
-    "id": 231,
-    "school_district": "Alejandrafurt",
-    "school_type": "public",
-    "grade_level": "9-12",
+    "id": 104,
+    "school_name": "Balistreri - Nader",
+    "school_district": "Mesa",
+    "school_type": "charter",
+    "grade_level": "6-8",
     "is_deleted": 0
   },
   {
-    "id": 232,
-    "school_district": "Germaineville",
-    "school_type": "private",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 233,
+    "id": 105,
+    "school_name": "Quigley LLC",
     "school_district": "Port Johnpaulcester",
     "school_type": "public",
     "grade_level": "9-12",
     "is_deleted": 0
   },
   {
-    "id": 234,
-    "school_district": "Roweberg",
+    "id": 106,
+    "school_name": "Rowe, Dare and Kemmer",
+    "school_district": "Utica",
+    "school_type": "private",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 107,
+    "school_name": "Keebler, Haley and Goodwin",
+    "school_district": "South Jermain",
+    "school_type": "high",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 108,
+    "school_name": "Kub, Blick and Brakus",
+    "school_district": "Erie",
+    "school_type": "elementary",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 109,
+    "school_name": "Becker - Goldner",
+    "school_district": "Lake Zora",
+    "school_type": "charter",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 110,
+    "school_name": "Boyer and Sons",
+    "school_district": "East Reubenville",
     "school_type": "high",
     "grade_level": "K-12",
     "is_deleted": 0
   },
   {
-    "id": 235,
-    "school_district": "Rogers",
+    "id": 111,
+    "school_name": "Turcotte, Jerde and Brekke",
+    "school_district": "Langworthview",
+    "school_type": "private",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 112,
+    "school_name": "Hilpert LLC",
+    "school_district": "Langoshfurt",
+    "school_type": "public",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 113,
+    "school_name": "Koelpin Inc",
+    "school_district": "Brekkeberg",
+    "school_type": "public",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 114,
+    "school_name": "Rice Inc",
+    "school_district": "South Winston",
     "school_type": "charter",
     "grade_level": "K-12",
     "is_deleted": 0
   },
   {
-    "id": 236,
-    "school_district": "Elyseboro",
-    "school_type": "middle",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 237,
-    "school_district": "Inesburgh",
-    "school_type": "private",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 238,
-    "school_district": "North Yadiraboro",
-    "school_type": "elementary",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 239,
-    "school_district": "North Donna",
-    "school_type": "middle",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 240,
-    "school_district": "Palm Bay",
-    "school_type": "elementary",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 241,
-    "school_district": "West Aliviaburgh",
-    "school_type": "private",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 242,
-    "school_district": "Rodcester",
-    "school_type": "public",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 243,
-    "school_district": "Lake Jolieview",
-    "school_type": "private",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 244,
-    "school_district": "West Maxine",
-    "school_type": "private",
-    "grade_level": "9-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 245,
-    "school_district": "Zulaufstad",
-    "school_type": "elementary",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 246,
-    "school_district": "Lake Bernadetteberg",
-    "school_type": "public",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 247,
-    "school_district": "Lake Christbury",
-    "school_type": "high",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 248,
-    "school_district": "Wilkinsonmouth",
-    "school_type": "high",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 249,
+    "id": 115,
+    "school_name": "Kerluke - Barrows",
     "school_district": "Mikelfort",
     "school_type": "middle",
     "grade_level": "6-8",
     "is_deleted": 0
   },
   {
-    "id": 250,
-    "school_district": "Ponce",
-    "school_type": "private",
-    "grade_level": "K-12",
-    "is_deleted": 0
-  },
-  {
-    "id": 251,
+    "id": 116,
+    "school_name": "Purdy, Roberts and Stiedemann",
     "school_district": "Port Micheletown",
     "school_type": "public",
     "grade_level": "K-12",
     "is_deleted": 0
   },
   {
-    "id": 252,
-    "school_district": "Wymanbury",
-    "school_type": "private",
+    "id": 117,
+    "school_name": "Wyman - Hoeger",
+    "school_district": "Jonesside",
+    "school_type": "charter",
     "grade_level": "6-8",
     "is_deleted": 0
   },
   {
-    "id": 253,
-    "school_district": "North Highlands",
+    "id": 118,
+    "school_name": "Fadel - Nikolaus",
+    "school_district": "Weissnatville",
     "school_type": "middle",
-    "grade_level": "6-8",
+    "grade_level": "K-12",
     "is_deleted": 0
   },
   {
-    "id": 254,
-    "school_district": "Lake Lea",
-    "school_type": "public",
-    "grade_level": "K-5",
-    "is_deleted": 0
-  },
-  {
-    "id": 255,
-    "school_district": "Fort Jessie",
-    "school_type": "middle",
-    "grade_level": "6-8",
-    "is_deleted": 0
-  },
-  {
-    "id": 256,
+    "id": 119,
+    "school_name": "Dare - Koch",
     "school_district": "Lake Forest",
     "school_type": "middle",
     "grade_level": "K-12",
     "is_deleted": 0
   },
   {
+    "id": 120,
+    "school_name": "Wiza, Quigley and Beer",
+    "school_district": "Fort Jaquan",
+    "school_type": "public",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 121,
+    "school_name": "Bradtke Inc",
+    "school_district": "Ratkefurt",
+    "school_type": "public",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 122,
+    "school_name": "Runolfsdottir, Langosh and Harber",
+    "school_district": "Fort Mary",
+    "school_type": "elementary",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 123,
+    "school_name": "Hand, Reichert and Kub",
+    "school_district": "Lake Ridge",
+    "school_type": "high",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 124,
+    "school_name": "Bernier - Kunde",
+    "school_district": "South Rosella",
+    "school_type": "charter",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 125,
+    "school_name": "Wiza - Jakubowski",
+    "school_district": "Harveyport",
+    "school_type": "charter",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 126,
+    "school_name": "Smitham LLC",
+    "school_district": "Lake Kristina",
+    "school_type": "private",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 127,
+    "school_name": "Fahey - Daugherty",
+    "school_district": "Lake Abagail",
+    "school_type": "middle",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 128,
+    "school_name": "Boehm and Sons",
+    "school_district": "Columbus",
+    "school_type": "elementary",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 129,
+    "school_name": "Stracke Group",
+    "school_district": "Kochville",
+    "school_type": "private",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 130,
+    "school_name": "Wisoky, Mayer and Walsh",
+    "school_district": "South Howard",
+    "school_type": "middle",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 131,
+    "school_name": "Larkin - Klocko",
+    "school_district": "Lake Estefaniahaven",
+    "school_type": "elementary",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 132,
+    "school_name": "Torp Inc",
+    "school_district": "New Aricstad",
+    "school_type": "middle",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 133,
+    "school_name": "Lang and Sons",
+    "school_district": "South Eleazarberg",
+    "school_type": "high",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 134,
+    "school_name": "Sipes Group",
+    "school_district": "Kuhicport",
+    "school_type": "public",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 135,
+    "school_name": "Ortiz, Spencer and Fisher",
+    "school_district": "East Arvid",
+    "school_type": "high",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 136,
+    "school_name": "McCullough, Mann and Renner",
+    "school_district": "Candacecester",
+    "school_type": "public",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 137,
+    "school_name": "Pagac, Ondricka and Jones",
+    "school_district": "Bernhardshire",
+    "school_type": "elementary",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 138,
+    "school_name": "Bartoletti and Sons",
+    "school_district": "South Bend",
+    "school_type": "private",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 139,
+    "school_name": "Reichel and Sons",
+    "school_district": "West Hershelborough",
+    "school_type": "charter",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 140,
+    "school_name": "Dach, McGlynn and Jakubowski",
+    "school_district": "Mylesbury",
+    "school_type": "private",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 141,
+    "school_name": "DuBuque, Robel and Huels",
+    "school_district": "Matildeville",
+    "school_type": "private",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 142,
+    "school_name": "West, Dickinson and Schumm",
+    "school_district": "Steuberstead",
+    "school_type": "private",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 143,
+    "school_name": "Boyle Inc",
+    "school_district": "Kingsport",
+    "school_type": "middle",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 144,
+    "school_name": "Stokes Inc",
+    "school_district": "Columbia",
+    "school_type": "middle",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 145,
+    "school_name": "Walker and Sons",
+    "school_district": "North Emmitttown",
+    "school_type": "elementary",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 146,
+    "school_name": "Hammes and Sons",
+    "school_district": "Treutelstead",
+    "school_type": "elementary",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 147,
+    "school_name": "O'Keefe and Sons",
+    "school_district": "Wolfview",
+    "school_type": "charter",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 148,
+    "school_name": "Cormier, Reichel and Corwin",
+    "school_district": "Potomac",
+    "school_type": "high",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 149,
+    "school_name": "Dietrich - Anderson",
+    "school_district": "Alberthastad",
+    "school_type": "middle",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 150,
+    "school_name": "Leannon LLC",
+    "school_district": "Fort Maxie",
+    "school_type": "charter",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 151,
+    "school_name": "Cassin, Shields and Harvey",
+    "school_district": "Rochester",
+    "school_type": "charter",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 152,
+    "school_name": "Hermiston, Purdy and Keebler",
+    "school_district": "Terre Haute",
+    "school_type": "elementary",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 153,
+    "school_name": "Jaskolski - Ritchie",
+    "school_district": "Fort Dahliaberg",
+    "school_type": "public",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 154,
+    "school_name": "Kling, Yost and Larson",
+    "school_district": "New Mathilde",
+    "school_type": "elementary",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 155,
+    "school_name": "Pfannerstill - Abbott",
+    "school_district": "Port Lydaville",
+    "school_type": "high",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 156,
+    "school_name": "Wisoky LLC",
+    "school_district": "South Kittyfurt",
+    "school_type": "charter",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 157,
+    "school_name": "Stanton and Sons",
+    "school_district": "Marquardtboro",
+    "school_type": "middle",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 158,
+    "school_name": "Stanton and Sons",
+    "school_district": "South Willowstad",
+    "school_type": "public",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 159,
+    "school_name": "Halvorson LLC",
+    "school_district": "Eugeneton",
+    "school_type": "public",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 160,
+    "school_name": "Hermiston, Schamberger and Pfannerstill",
+    "school_district": "North Rupertboro",
+    "school_type": "elementary",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 161,
+    "school_name": "Powlowski - Marks",
+    "school_district": "Mittieworth",
+    "school_type": "high",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 162,
+    "school_name": "Abernathy Group",
+    "school_district": "Sanfordstead",
+    "school_type": "private",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 163,
+    "school_name": "Bailey Inc",
+    "school_district": "Gorczanyfort",
+    "school_type": "public",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 164,
+    "school_name": "Flatley Inc",
+    "school_district": "Violetcester",
+    "school_type": "high",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 165,
+    "school_name": "Roob - Parker",
+    "school_district": "North Isaias",
+    "school_type": "elementary",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 166,
+    "school_name": "Sawayn Group",
+    "school_district": "Giovanitown",
+    "school_type": "elementary",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 167,
+    "school_name": "Flatley Group",
+    "school_district": "Fort Genovevaberg",
+    "school_type": "high",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 168,
+    "school_name": "Goodwin - Hyatt",
+    "school_district": "Lawton",
+    "school_type": "private",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 169,
+    "school_name": "Lakin Group",
+    "school_district": "Peoria",
+    "school_type": "public",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 170,
+    "school_name": "Gerlach, Schuppe and Veum",
+    "school_district": "Stiedemannbury",
+    "school_type": "elementary",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 171,
+    "school_name": "Green, Waters and Crooks",
+    "school_district": "Lake Brandon",
+    "school_type": "charter",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 172,
+    "school_name": "Jenkins, Bosco and Boyle",
+    "school_district": "Andersonchester",
+    "school_type": "public",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 173,
+    "school_name": "Predovic - Renner",
+    "school_district": "Tadland",
+    "school_type": "private",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 174,
+    "school_name": "Pouros - Balistreri",
+    "school_district": "Chapel Hill",
+    "school_type": "charter",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 175,
+    "school_name": "Larson, Wiza and Crona",
+    "school_district": "Rancho Cucamonga",
+    "school_type": "elementary",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 176,
+    "school_name": "Langosh, Daugherty and Marks",
+    "school_district": "Lockmanville",
+    "school_type": "high",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 177,
+    "school_name": "Bergstrom - Hamill",
+    "school_district": "Port Imelda",
+    "school_type": "private",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 178,
+    "school_name": "Connelly, Rau and Bogisich",
+    "school_district": "Fredside",
+    "school_type": "public",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 179,
+    "school_name": "Schulist and Sons",
+    "school_district": "League City",
+    "school_type": "high",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 180,
+    "school_name": "Green Group",
+    "school_district": "Kenosha",
+    "school_type": "high",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 181,
+    "school_name": "Cruickshank - Lebsack",
+    "school_district": "Vinceberg",
+    "school_type": "charter",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 182,
+    "school_name": "Hoeger, Stanton and Jaskolski",
+    "school_district": "Bryonborough",
+    "school_type": "private",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 183,
+    "school_name": "Welch - Mohr",
+    "school_district": "West Kiannatown",
+    "school_type": "elementary",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 184,
+    "school_name": "Lesch, Lindgren and Ortiz",
+    "school_district": "East Kaelyn",
+    "school_type": "high",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 185,
+    "school_name": "Ebert Group",
+    "school_district": "Mrazfield",
+    "school_type": "charter",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 186,
+    "school_name": "Schuster - Kirlin",
+    "school_district": "Williamsonmouth",
+    "school_type": "charter",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 187,
+    "school_name": "Mayer - Renner",
+    "school_district": "Lake Marcelino",
+    "school_type": "high",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 188,
+    "school_name": "Stokes, Turner and Paucek",
+    "school_district": "Lake Baronmouth",
+    "school_type": "public",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 189,
+    "school_name": "Harris - Heller",
+    "school_district": "Sawaynchester",
+    "school_type": "middle",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 190,
+    "school_name": "Erdman, Runte and Heidenreich",
+    "school_district": "Dooleyfurt",
+    "school_type": "private",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 191,
+    "school_name": "Abernathy Inc",
+    "school_district": "Niagara Falls",
+    "school_type": "public",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 192,
+    "school_name": "Connelly, Stracke and Shanahan",
+    "school_district": "Elmoreton",
+    "school_type": "private",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 193,
+    "school_name": "Spencer Group",
+    "school_district": "North Sammyville",
+    "school_type": "elementary",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 194,
+    "school_name": "Huel - Streich",
+    "school_district": "Fountain Valley",
+    "school_type": "public",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 195,
+    "school_name": "Cole, Carroll and Stokes",
+    "school_district": "East Harrison",
+    "school_type": "charter",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 196,
+    "school_name": "Schmidt, Weimann and Mayer",
+    "school_district": "Roseville",
+    "school_type": "private",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 197,
+    "school_name": "Wunsch - Kertzmann",
+    "school_district": "Lake Orin",
+    "school_type": "middle",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 198,
+    "school_name": "Tillman LLC",
+    "school_district": "Watsonville",
+    "school_type": "middle",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 199,
+    "school_name": "Conroy - Koss",
+    "school_district": "South Richmondboro",
+    "school_type": "private",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 200,
+    "school_name": "Hayes Group",
+    "school_district": "Boylebury",
+    "school_type": "public",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 201,
+    "school_name": "Beahan Group",
+    "school_district": "Lake Keven",
+    "school_type": "middle",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 202,
+    "school_name": "Koepp Inc",
+    "school_district": "Port Julien",
+    "school_type": "middle",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 203,
+    "school_name": "Zboncak, Bartell and Dicki",
+    "school_district": "Bowie",
+    "school_type": "private",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 204,
+    "school_name": "Ward, Murazik and Reilly",
+    "school_district": "Elnaside",
+    "school_type": "elementary",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 205,
+    "school_name": "Greenfelder LLC",
+    "school_district": "New Braunfels",
+    "school_type": "public",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 206,
+    "school_name": "Crist, Kling and Rath",
+    "school_district": "West Uriel",
+    "school_type": "elementary",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 207,
+    "school_name": "Upton LLC",
+    "school_district": "Apple Valley",
+    "school_type": "elementary",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 208,
+    "school_name": "Moen, Gleason and Kuhn",
+    "school_district": "Fort Vivian",
+    "school_type": "elementary",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 209,
+    "school_name": "Beer Inc",
+    "school_district": "South Margret",
+    "school_type": "middle",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 210,
+    "school_name": "Walsh, Schamberger and Powlowski",
+    "school_district": "Derrickworth",
+    "school_type": "high",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 211,
+    "school_name": "Padberg, Littel and Prohaska",
+    "school_district": "Julianashire",
+    "school_type": "charter",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 212,
+    "school_name": "Bayer - Schamberger",
+    "school_district": "Linden",
+    "school_type": "middle",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 213,
+    "school_name": "Zieme, Runolfsson and O'Conner",
+    "school_district": "Schadenborough",
+    "school_type": "public",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 214,
+    "school_name": "Durgan LLC",
+    "school_district": "New Daytonchester",
+    "school_type": "elementary",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 215,
+    "school_name": "Kuphal - Bergstrom",
+    "school_district": "Jacksonville",
+    "school_type": "elementary",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 216,
+    "school_name": "Rempel LLC",
+    "school_district": "Suffolk",
+    "school_type": "charter",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 217,
+    "school_name": "Bashirian and Sons",
+    "school_district": "Lynwood",
+    "school_type": "elementary",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 218,
+    "school_name": "Brekke, Huels and Smith",
+    "school_district": "West Ashlee",
+    "school_type": "high",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 219,
+    "school_name": "Runolfsson and Sons",
+    "school_district": "Hellerboro",
+    "school_type": "public",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 220,
+    "school_name": "Mayer, Simonis and Littel",
+    "school_district": "North Madysonstead",
+    "school_type": "private",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 221,
+    "school_name": "Lind and Sons",
+    "school_district": "Port Callieton",
+    "school_type": "elementary",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 222,
+    "school_name": "Hamill - Marks",
+    "school_district": "New Jettiemouth",
+    "school_type": "high",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 223,
+    "school_name": "Luettgen - Cremin",
+    "school_district": "Pearlhaven",
+    "school_type": "elementary",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 224,
+    "school_name": "Dach, Moore and Smith",
+    "school_district": "Deliacester",
+    "school_type": "high",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 225,
+    "school_name": "Champlin, Littel and Collins",
+    "school_district": "Carterside",
+    "school_type": "private",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 226,
+    "school_name": "Nicolas, Torphy and Bauch",
+    "school_district": "Brionnaborough",
+    "school_type": "charter",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 227,
+    "school_name": "Johns, Hane and Donnelly",
+    "school_district": "Litzyville",
+    "school_type": "middle",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 228,
+    "school_name": "Walter Group",
+    "school_district": "Konopelskichester",
+    "school_type": "high",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 229,
+    "school_name": "Brown, Bergnaum and Glover",
+    "school_district": "South Vada",
+    "school_type": "elementary",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 230,
+    "school_name": "Rutherford - Jast",
+    "school_district": "New Abagail",
+    "school_type": "middle",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 231,
+    "school_name": "Ziemann - Hettinger",
+    "school_district": "Lake Rita",
+    "school_type": "charter",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 232,
+    "school_name": "Corkery - Hilll",
+    "school_district": "Nicolasworth",
+    "school_type": "elementary",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 233,
+    "school_name": "Gleason, Lemke and Harris",
+    "school_district": "South Alfonzoside",
+    "school_type": "elementary",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 234,
+    "school_name": "Runte Inc",
+    "school_district": "Fort Franceschester",
+    "school_type": "middle",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 235,
+    "school_name": "Hilll and Sons",
+    "school_district": "Port Halliefurt",
+    "school_type": "elementary",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 236,
+    "school_name": "Dach, Dibbert and Kub",
+    "school_district": "San Clemente",
+    "school_type": "charter",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 237,
+    "school_name": "Hammes, Ward and Dickinson",
+    "school_district": "New Jo",
+    "school_type": "middle",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 238,
+    "school_name": "Labadie Group",
+    "school_district": "Minervafort",
+    "school_type": "public",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 239,
+    "school_name": "Mills - O'Hara",
+    "school_district": "Doral",
+    "school_type": "middle",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 240,
+    "school_name": "Rath - Stehr",
+    "school_district": "Gunnercester",
+    "school_type": "private",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 241,
+    "school_name": "Hagenes, Reilly and Auer",
+    "school_district": "Danielhaven",
+    "school_type": "private",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 242,
+    "school_name": "Cormier, Johnston and Greenfelder",
+    "school_district": "Lake Claudeton",
+    "school_type": "public",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 243,
+    "school_name": "Runte - Deckow",
+    "school_district": "Cutler Bay",
+    "school_type": "middle",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 244,
+    "school_name": "Kozey - Harris",
+    "school_district": "Fort Cody",
+    "school_type": "high",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 245,
+    "school_name": "Reinger LLC",
+    "school_district": "Celiaport",
+    "school_type": "elementary",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 246,
+    "school_name": "Wintheiser, Wolff and Paucek",
+    "school_district": "Leonelborough",
+    "school_type": "middle",
+    "grade_level": "9-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 247,
+    "school_name": "Kilback Group",
+    "school_district": "New Josue",
+    "school_type": "middle",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 248,
+    "school_name": "Anderson, Klein and Legros",
+    "school_district": "Connieberg",
+    "school_type": "public",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 249,
+    "school_name": "Bogan - Goldner",
+    "school_district": "Corpus Christi",
+    "school_type": "public",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 250,
+    "school_name": "Braun - Gislason",
+    "school_district": "East Johan",
+    "school_type": "private",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 251,
+    "school_name": "Wunsch, Gusikowski and Strosin",
+    "school_district": "Julescester",
+    "school_type": "middle",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 252,
+    "school_name": "Littel Inc",
+    "school_district": "McCulloughton",
+    "school_type": "private",
+    "grade_level": "6-8",
+    "is_deleted": 0
+  },
+  {
+    "id": 253,
+    "school_name": "Pouros, Jenkins and Bergnaum",
+    "school_district": "Wilmerport",
+    "school_type": "middle",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 254,
+    "school_name": "O'Reilly, Glover and Collier",
+    "school_district": "New Vivianbury",
+    "school_type": "elementary",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
+    "id": 255,
+    "school_name": "Hackett Inc",
+    "school_district": "Rogerschester",
+    "school_type": "middle",
+    "grade_level": "K-12",
+    "is_deleted": 0
+  },
+  {
+    "id": 256,
+    "school_name": "Nitzsche - Hyatt",
+    "school_district": "Port Juston",
+    "school_type": "elementary",
+    "grade_level": "K-5",
+    "is_deleted": 0
+  },
+  {
     "id": 257,
-    "school_district": "Wizacester",
+    "school_name": "Keebler Group",
+    "school_district": "West Elenoraland",
     "school_type": "elementary",
     "grade_level": "K-5",
     "is_deleted": 0
   },
   {
     "id": 258,
-    "school_district": "Lakeland",
-    "school_type": "public",
+    "school_name": "Willms, McGlynn and Sauer",
+    "school_district": "Port Queenieview",
+    "school_type": "charter",
     "grade_level": "K-12",
     "is_deleted": 0
   },
   {
     "id": 259,
-    "school_district": "North Aglae",
-    "school_type": "charter",
+    "school_name": "Zulauf Group",
+    "school_district": "Gerholdport",
+    "school_type": "high",
     "grade_level": "9-12",
     "is_deleted": 0
   }

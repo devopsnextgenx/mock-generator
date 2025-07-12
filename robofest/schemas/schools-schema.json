@@ -12,7 +12,7 @@
     },
     "school_name": {
       "type": "string",
-      "faker": "company.companyName"
+      "faker": "company.name"
     },
     "school_district": {
       "type": "string",

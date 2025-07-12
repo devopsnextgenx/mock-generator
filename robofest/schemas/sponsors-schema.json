@@ -12,7 +12,7 @@
     },
     "sponser_name": {
       "type": "string",
-      "faker": "company.companyName"
+      "faker": "company.name"
     },
     "tier": {
       "type": "integer",
