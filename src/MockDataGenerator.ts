@@ -452,10 +452,55 @@ export class MockDataGenerator {
     const max = property.maximum || 1000;
 
     if (property.type === 'integer') {
+      // Handle modulo pattern for integers
+      if (property.modulo) {
+        return this.generateModuloNumber(min, max, property.modulo);
+      }
       return faker.number.int({ min, max });
     }
 
     return faker.number.float({ min, max, fractionDigits: 2 });
+  }
+
+  /**
+   * Generate integer value that satisfies modulo pattern
+   */
+  private generateModuloNumber(min: number, max: number, modulo: { divisor: number; remainder?: number }): number {
+    const divisor = modulo.divisor;
+    const remainder = modulo.remainder || 0;
+
+    if (divisor <= 0) {
+      throw new Error('Modulo divisor must be greater than 0');
+    }
+
+    if (remainder >= divisor || remainder < 0) {
+      throw new Error('Modulo remainder must be between 0 and divisor-1');
+    }
+
+    // Find the range of valid multiples
+    // We need numbers n where: min <= n <= max and n % divisor === remainder
+    // This means n = k * divisor + remainder for some integer k
+
+    // Calculate the minimum k such that k * divisor + remainder >= min
+    const minK = Math.ceil((min - remainder) / divisor);
+    
+    // Calculate the maximum k such that k * divisor + remainder <= max
+    const maxK = Math.floor((max - remainder) / divisor);
+
+    if (minK > maxK) {
+      // No valid values in the range, fall back to regular generation
+      console.warn(`No values in range [${min}, ${max}] satisfy modulo pattern (% ${divisor} = ${remainder}). Using regular generation.`);
+      return faker.number.int({ min, max });
+    }
+
+    // Generate a random k in the valid range
+    const k = faker.number.int({ min: minK, max: maxK });
+    
+    // Calculate the final value
+    const result = k * divisor + remainder;
+    
+    // Ensure the result is within bounds (should always be true, but safety check)
+    return Math.max(min, Math.min(max, result));
   }
 
   /**
@@ -513,6 +558,10 @@ export class MockDataGenerator {
           const max = property.maximum ?? (property.type === 'integer' ? 1000 : 1000.0);
           
           if (fakerPath === 'number.int') {
+            // Handle modulo pattern for integer faker generation
+            if (property.modulo) {
+              return this.generateModuloNumber(min, max, property.modulo);
+            }
             return faker.number.int({ min, max });
           } else {
             return faker.number.float({ min, max, fractionDigits: 2 });

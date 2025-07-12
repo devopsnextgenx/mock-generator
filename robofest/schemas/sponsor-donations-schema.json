@@ -27,7 +27,10 @@
       "type": "integer",
       "minimum": 100,
       "maximum": 100000,
-      "faker": "number.int"
+      "faker": "number.int",
+      "modulo": {
+        "divisor": 100
+      }
     },
     "donation_date": {
       "type": "string",

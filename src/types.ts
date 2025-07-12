@@ -37,6 +37,10 @@ export interface SchemaProperty {
     schema: string; // reference to another schema name
     field: string;  // field name in the referenced schema
   };
+  modulo?: {
+    divisor: number; // the number that the generated value should be divisible by (e.g., 5, 10, 100)
+    remainder?: number; // optional remainder (default: 0) - for patterns like (x % 5 = 2)
+  };
 }
 
 export interface JSONSchema {
