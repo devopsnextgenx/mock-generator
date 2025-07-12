@@ -1,5 +1,5 @@
 -- MySQL bulk insert statements for table: schools
--- Generated on: 2025-07-12T19:35:26.170Z
+-- Generated on: 2025-07-12T19:44:51.509Z
 -- Total records: 250
 
 CREATE TABLE IF NOT EXISTS `schools` (

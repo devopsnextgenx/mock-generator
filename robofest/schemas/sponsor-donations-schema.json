@@ -26,7 +26,7 @@
     "amount": {
       "type": "integer",
       "minimum": 100,
-      "maximum": 100000,
+      "maximum": 10000,
       "faker": "number.int",
       "modulo": {
         "divisor": 100

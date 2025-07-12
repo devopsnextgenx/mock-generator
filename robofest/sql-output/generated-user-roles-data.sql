@@ -1,5 +1,5 @@
 -- MySQL bulk insert statements for table: user_roles
--- Generated on: 2025-07-12T19:35:26.572Z
+-- Generated on: 2025-07-12T19:44:52.624Z
 -- Total records: 22000
 
 CREATE TABLE IF NOT EXISTS `user_roles` (
